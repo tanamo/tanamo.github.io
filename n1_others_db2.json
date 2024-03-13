@@ -1,0 +1,2351 @@
+[
+  {
+    "id": "1565440",
+    "kanji": [
+      "嗚呼",
+      "噫",
+      "嗟",
+      "於乎",
+      "於戯",
+      "嗟乎",
+      "吁"
+    ],
+    "kana": [
+      "ああ",
+      "あー",
+      "あぁ",
+      "アー",
+      "アア",
+      "アァ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "ah!",
+          "oh!",
+          "alas!"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "yes",
+          "indeed",
+          "that is correct"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "aah",
+          "gah",
+          "argh"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "hey!",
+          "yo!"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "uh huh",
+          "yeah yeah",
+          "right",
+          "gotcha"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1400800",
+    "kanji": [
+      "相"
+    ],
+    "kana": [
+      "あい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "together",
+          "mutually",
+          "fellow"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1000520",
+    "kanji": [],
+    "kana": [
+      "あら",
+      "あらー"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "oh!",
+          "ah!",
+          "oh no"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1586820",
+    "kanji": [
+      "有り難う",
+      "有難う"
+    ],
+    "kana": [
+      "ありがとう",
+      "ありがと"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thank you",
+          "thanks"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1583250",
+    "kanji": [],
+    "kana": [
+      "いいえ",
+      "いえ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "no"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "you're welcome",
+          "not at all",
+          "don't mention it"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1410800",
+    "kanji": [
+      "頂きます",
+      "戴きます"
+    ],
+    "kana": [
+      "いただきます"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thank you (for the meal just served)",
+          "I receive (this meal)"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1335730",
+    "kanji": [
+      "重"
+    ],
+    "kana": [
+      "え"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "-fold",
+          "-ply"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1178920",
+    "kanji": [
+      "於て",
+      "於いて",
+      "於",
+      "置いて"
+    ],
+    "kana": [
+      "おいて"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "at",
+          "in",
+          "on"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2853873",
+    "kanji": [],
+    "kana": [
+      "おおい",
+      "おーい",
+      "オーイ",
+      "オオイ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hey!",
+          "oi!",
+          "ahoy!"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1270220",
+    "kanji": [
+      "お陰様で",
+      "お蔭様で",
+      "お陰さまで",
+      "おかげ様で",
+      "御陰様で",
+      "御蔭様で"
+    ],
+    "kana": [
+      "おかげさまで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thankfully",
+          "fortunately",
+          "luckily",
+          "by God's grace",
+          "under the gods' shadow"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "thanks to your (his, their, everyone's, etc.) kindness",
+          "thanks to your assistance",
+          "thanks to your support",
+          "thanks to your efforts"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1002050",
+    "kanji": [
+      "お邪魔します",
+      "御邪魔します"
+    ],
+    "kana": [
+      "おじゃまします"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "please excuse the intrusion",
+          "I'm coming in"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1002390",
+    "kanji": [
+      "お大事に"
+    ],
+    "kana": [
+      "おだいじに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "take care of yourself",
+          "get well soon"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1001720",
+    "kanji": [
+      "お願いします",
+      "御願いします"
+    ],
+    "kana": [
+      "おねがいします"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "please"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1612820",
+    "kanji": [
+      "お早う",
+      "御早う"
+    ],
+    "kana": [
+      "おはよう",
+      "おはよー"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "good morning"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1228140",
+    "kanji": [
+      "及び",
+      "及"
+    ],
+    "kana": [
+      "および"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "and",
+          "as well as"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2220320",
+    "kanji": [
+      "箇",
+      "個",
+      "个"
+    ],
+    "kana": [
+      "か",
+      "カ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "counter for the ichi-ni-san counting system (usu. directly preceding the item being counted)",
+          "a noun read using its on-yomi"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1194480",
+    "kanji": [
+      "ヶ月",
+      "ヵ月",
+      "カ月",
+      "か月",
+      "ケ月",
+      "箇月",
+      "個月"
+    ],
+    "kana": [
+      "かげつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "counter for months"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1002790",
+    "kanji": [
+      "畏まりました"
+    ],
+    "kana": [
+      "かしこまりました"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "certainly!"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1002970",
+    "kanji": [
+      "かも知れない"
+    ],
+    "kana": [
+      "かもしれない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "may",
+          "might",
+          "perhaps",
+          "may be",
+          "possibly"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1154340",
+    "kanji": [],
+    "kana": [
+      "くらい",
+      "ぐらい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "approximately",
+          "about",
+          "around",
+          "or so"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "prt"
+        ]
+      },
+      {
+        "gloss": [
+          "to (about) the extent that",
+          "(almost) enough that",
+          "so ... that ...",
+          "at least"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "prt"
+        ]
+      },
+      {
+        "gloss": [
+          "as ... as ...",
+          "like"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "prt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2836694",
+    "kanji": [
+      "傑"
+    ],
+    "kana": [
+      "けつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "the top (e.g. top ten)",
+          "the best"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1261130",
+    "kanji": [
+      "原"
+    ],
+    "kana": [
+      "げん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "original",
+          "primitive",
+          "primary",
+          "fundamental",
+          "proto-"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1267110",
+    "kanji": [
+      "故"
+    ],
+    "kana": [
+      "こ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "the late",
+          "the deceased"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1659920",
+    "kanji": [
+      "戸"
+    ],
+    "kana": [
+      "こ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "counter for houses, households, apartments, etc."
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1280050",
+    "kanji": [
+      "溝"
+    ],
+    "kana": [
+      "こう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "10^32",
+          "hundred nonillion"
+        ],
+        "partOfSpeech": [
+          "num"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2773660",
+    "kanji": [
+      "事によると"
+    ],
+    "kana": [
+      "ことによると"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "possibly",
+          "maybe",
+          "perhaps"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1289400",
+    "kanji": [
+      "今日は",
+      "今日わ"
+    ],
+    "kana": [
+      "こんにちは",
+      "こんにちわ",
+      "こにちわ",
+      "こにちは"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hello",
+          "good day",
+          "good afternoon"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1289480",
+    "kanji": [
+      "今晩は"
+    ],
+    "kana": [
+      "こんばんは",
+      "こんばんわ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "good evening"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1270190",
+    "kanji": [
+      "御"
+    ],
+    "kana": [
+      "ご"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "honorific/polite/humble prefix"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": [
+          "honorific suffix"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1612690",
+    "kanji": [
+      "御座います",
+      "ご座います"
+    ],
+    "kana": [
+      "ございます"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be",
+          "to exist"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1270520",
+    "kanji": [
+      "ご馳走様",
+      "ご馳走さま",
+      "御馳走様"
+    ],
+    "kana": [
+      "ごちそうさま"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thank you (for the meal)",
+          "that was a delicious meal"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "thank you (for displaying lovey-dovey behaviour)"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1270690",
+    "kanji": [
+      "ご免ください",
+      "御免下さい",
+      "ご免下さい",
+      "御免ください"
+    ],
+    "kana": [
+      "ごめんください"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "may I come in?"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "please forgive me",
+          "I'm sorry"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1270680",
+    "kanji": [
+      "御免なさい",
+      "ご免なさい"
+    ],
+    "kana": [
+      "ごめんなさい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "I'm sorry",
+          "my apologies",
+          "excuse me",
+          "pardon me"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1292290",
+    "kanji": [
+      "再"
+    ],
+    "kana": [
+      "さい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "re-",
+          "again",
+          "repeated",
+          "deutero-",
+          "deuto-",
+          "deuter-"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1294940",
+    "kanji": [
+      "歳",
+      "才"
+    ],
+    "kana": [
+      "さい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "... years old",
+          "age (of) ..."
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1585460",
+    "kanji": [
+      "偖",
+      "扨",
+      "扠"
+    ],
+    "kana": [
+      "さて"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "well",
+          "now",
+          "then"
+        ],
+        "partOfSpeech": [
+          "conj",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1291050",
+    "kanji": [
+      "左様なら"
+    ],
+    "kana": [
+      "さようなら",
+      "サヨウナラ",
+      "サヨーナラ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "farewell",
+          "adieu",
+          "goodbye",
+          "so long"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1005340",
+    "kanji": [],
+    "kana": [
+      "さん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "Mr.",
+          "Mrs.",
+          "Miss",
+          "Ms.",
+          "-san"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "politeness marker"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2542020",
+    "kanji": [
+      "秭"
+    ],
+    "kana": [
+      "し"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "10^24",
+          "septillion"
+        ],
+        "partOfSpeech": [
+          "num"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1579580",
+    "kanji": [
+      "次"
+    ],
+    "kana": [
+      "じ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "next"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": [
+          "hypo- (i.e. containing an element with low valence)"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": [
+          "order",
+          "sequence",
+          "time",
+          "times"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1506050",
+    "kanji": [
+      "然も",
+      "而も"
+    ],
+    "kana": [
+      "しかも"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "moreover",
+          "furthermore"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "nevertheless",
+          "and yet"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1344210",
+    "kanji": [
+      "諸"
+    ],
+    "kana": [
+      "しょ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "various",
+          "many",
+          "several"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1351000",
+    "kanji": [
+      "症"
+    ],
+    "kana": [
+      "しょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "illness",
+          "condition",
+          "-pathy"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1344360",
+    "kanji": [
+      "助"
+    ],
+    "kana": [
+      "じょ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "help",
+          "rescue",
+          "assistant"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1356740",
+    "kanji": [
+      "畳"
+    ],
+    "kana": [
+      "じょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "tatami mat (esp. as a measure of room size, either 1.82 sqm or 1.54 sqm)"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1366410",
+    "kanji": [
+      "人"
+    ],
+    "kana": [
+      "じん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "-ian (e.g. Italian)",
+          "-ite (e.g. Tokyoite)"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "-er (e.g. performer, etc.)",
+          "person working with ..."
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "man",
+          "person",
+          "people"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1404100",
+    "kanji": [
+      "即ち",
+      "則ち",
+      "乃ち",
+      "輒ち"
+    ],
+    "kana": [
+      "すなわち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "that is (to say)",
+          "namely",
+          "i.e."
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "precisely",
+          "exactly",
+          "just",
+          "nothing but",
+          "neither more nor less"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "(and) then"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1295060",
+    "kanji": [
+      "済みません"
+    ],
+    "kana": [
+      "すみません"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "excuse me",
+          "pardon me",
+          "I'm sorry",
+          "I beg your pardon"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "thank you",
+          "you shouldn't have",
+          "it's too much"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2600310",
+    "kanji": [
+      "刷"
+    ],
+    "kana": [
+      "さつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "printing",
+          "impression",
+          "issue"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1401470",
+    "kanji": [
+      "総"
+    ],
+    "kana": [
+      "そう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "whole",
+          "total",
+          "gross",
+          "entire",
+          "overall",
+          "general (election, manager, etc.)"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1612860",
+    "kanji": [
+      "然うして"
+    ],
+    "kana": [
+      "そうして"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "and",
+          "like that"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1406090",
+    "kanji": [
+      "其処で"
+    ],
+    "kana": [
+      "そこで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "so",
+          "accordingly",
+          "now",
+          "then",
+          "thereupon",
+          "therefore"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1006730",
+    "kanji": [
+      "而して",
+      "然して"
+    ],
+    "kana": [
+      "そして",
+      "しかして"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "and",
+          "and then",
+          "thus",
+          "and now",
+          "and finally"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1006850",
+    "kanji": [
+      "その為",
+      "其の為",
+      "其のため"
+    ],
+    "kana": [
+      "そのため"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hence",
+          "for that reason"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1006980",
+    "kanji": [
+      "其れから"
+    ],
+    "kana": [
+      "それから"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "and then",
+          "after that"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1007000",
+    "kanji": [
+      "其れで"
+    ],
+    "kana": [
+      "それで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "so",
+          "therefore",
+          "and",
+          "(and) then"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1406050",
+    "kanji": [],
+    "kana": [
+      "それでは"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "well, ...",
+          "right, ...",
+          "now, ..."
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "so",
+          "then"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "that way (would mean ...)",
+          "if that is the case",
+          "in that case"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "bye then"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1406060",
+    "kanji": [
+      "其れでも"
+    ],
+    "kana": [
+      "それでも"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "but (still)",
+          "and yet",
+          "nevertheless",
+          "even so",
+          "notwithstanding"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1007010",
+    "kanji": [
+      "其れとも"
+    ],
+    "kana": [
+      "それとも"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "or",
+          "or else"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1007040",
+    "kanji": [
+      "其れに"
+    ],
+    "kana": [
+      "それに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "besides",
+          "in addition",
+          "also",
+          "moreover"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1406080",
+    "kanji": [
+      "それ故",
+      "其れ故"
+    ],
+    "kana": [
+      "それゆえ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "therefore",
+          "for that reason",
+          "so",
+          "because of that"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1610080",
+    "kanji": [
+      "沿い",
+      "添い"
+    ],
+    "kana": [
+      "ぞい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "along (a river, coast, railway, etc.)",
+          "on (e.g. a street)"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1409820",
+    "kanji": [
+      "対して",
+      "對して"
+    ],
+    "kana": [
+      "たいして"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "for",
+          "in regard to",
+          "per"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1415260",
+    "kanji": [
+      "第"
+    ],
+    "kana": [
+      "だい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "prefix for forming ordinal numbers"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1007340",
+    "kanji": [
+      "丈"
+    ],
+    "kana": [
+      "だけ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "only",
+          "just",
+          "merely",
+          "simply",
+          "no more than",
+          "nothing but",
+          "alone"
+        ],
+        "partOfSpeech": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": [
+          "as much as",
+          "to the extent of",
+          "enough to"
+        ],
+        "partOfSpeech": [
+          "prt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1008570",
+    "kanji": [
+      "所が"
+    ],
+    "kana": [
+      "ところが"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "even so",
+          "however",
+          "still",
+          "whereupon",
+          "even though",
+          "nevertheless",
+          "on the contrary",
+          "as a matter of fact",
+          "despite"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1343110",
+    "kanji": [
+      "所で"
+    ],
+    "kana": [
+      "ところで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "by the way",
+          "incidentally"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "even if",
+          "no matter (who, what, when, where, why, how)"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1451730",
+    "kanji": [
+      "同"
+    ],
+    "kana": [
+      "どう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "the same",
+          "the said"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": [
+          "likewise"
+        ],
+        "partOfSpeech": [
+          "unc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1008960",
+    "kanji": [
+      "どうぞ宜しく"
+    ],
+    "kana": [
+      "どうぞよろしく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pleased to meet you",
+          "how do you do"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "my regards (to someone)",
+          "my greetings",
+          "best wishes",
+          "remember me to"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1469810",
+    "kanji": [
+      "乃至"
+    ],
+    "kana": [
+      "ないし"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "from ... to",
+          "between ... and"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "or"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1009410",
+    "kanji": [
+      "何故なら"
+    ],
+    "kana": [
+      "なぜなら"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "because",
+          "the reason is",
+          "if you want to know why"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1188490",
+    "kanji": [
+      "何も"
+    ],
+    "kana": [
+      "なにも"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "(not) anything",
+          "(nothing) at all",
+          "(not) any",
+          "nothing"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "and everything else",
+          "and all"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "(not) at all",
+          "(not) in the least",
+          "(not) especially",
+          "(not) to that extent"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1508350",
+    "kanji": [
+      "並びに",
+      "並に"
+    ],
+    "kana": [
+      "ならびに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "and (also)",
+          "both ... and",
+          "as well as"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1612900",
+    "kanji": [
+      "にも関わらず",
+      "にも拘らず",
+      "にも拘わらず",
+      "にも関らず",
+      "にも掛かわらず"
+    ],
+    "kana": [
+      "にもかかわらず"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "in spite of",
+          "nevertheless",
+          "although",
+          "despite",
+          "no matter the",
+          "regardless of"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1468900",
+    "kanji": [
+      "年生"
+    ],
+    "kana": [
+      "ねんせい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "nth-year student",
+          "nth-year pupil"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1625780",
+    "kanji": [
+      "初めまして",
+      "始めまして"
+    ],
+    "kana": [
+      "はじめまして"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "nice to meet you",
+          "I'm glad to make your acquaintance",
+          "how do you do?"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1524610",
+    "kanji": [
+      "枚"
+    ],
+    "kana": [
+      "まい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "counter for thin, flat objects (e.g. sheets of paper, plates, coins)"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      },
+      {
+        "gloss": [
+          "counter for portions of gyōza or soba"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      },
+      {
+        "gloss": [
+          "counter for ranks"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      },
+      {
+        "gloss": [
+          "counter for wrestlers of a particular rank"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      },
+      {
+        "gloss": [
+          "counter for fields or rice paddies"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      },
+      {
+        "gloss": [
+          "counter for palanquin bearers"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1579350",
+    "kanji": [
+      "三",
+      "３",
+      "参",
+      "參",
+      "弎"
+    ],
+    "kana": [
+      "さん",
+      "み"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "three",
+          "3"
+        ],
+        "partOfSpeech": [
+          "num"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1585310",
+    "kanji": [
+      "六",
+      "６",
+      "陸"
+    ],
+    "kana": [
+      "ろく",
+      "む",
+      "むう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "six",
+          "6"
+        ],
+        "partOfSpeech": [
+          "num"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1324320",
+    "kanji": [
+      "若しくは",
+      "若くは"
+    ],
+    "kana": [
+      "もしくは"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "or",
+          "otherwise"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1155020",
+    "kanji": [
+      "以て",
+      "以って"
+    ],
+    "kana": [
+      "もって"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "with",
+          "by",
+          "by means of"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "because of",
+          "on account of",
+          "for",
+          "due to"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "on (a day, date)",
+          "at (a time)",
+          "as of (e.g. today)"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "adds emphasis to preceding word"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "in addition (to being)",
+          "moreover",
+          "as well as",
+          "and"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "therefore",
+          "and so",
+          "hence"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1634040",
+    "kanji": [
+      "問"
+    ],
+    "kana": [
+      "もん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "counter for questions"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1579220",
+    "kanji": [
+      "哉"
+    ],
+    "kana": [
+      "かな"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "how!",
+          "what!",
+          "alas!"
+        ],
+        "partOfSpeech": [
+          "prt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1539020",
+    "kanji": [
+      "優"
+    ],
+    "kana": [
+      "やさ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "gentle",
+          "affectionate"
+        ],
+        "partOfSpeech": [
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1605970",
+    "kanji": [
+      "因って",
+      "仍って",
+      "依って",
+      "依て",
+      "仍て"
+    ],
+    "kana": [
+      "よって"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "therefore",
+          "consequently",
+          "accordingly",
+          "for that reason"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1552090",
+    "kanji": [
+      "流"
+    ],
+    "kana": [
+      "りゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "way",
+          "manner",
+          "style",
+          "fashion",
+          "mode"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "school (e.g. of flower arrangement)"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "class",
+          "rate",
+          "rank"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "flow",
+          "current",
+          "stream"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1555700",
+    "kanji": [
+      "輪"
+    ],
+    "kana": [
+      "りん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "counter for wheels and flowers"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2714230",
+    "kanji": [
+      "笑",
+      "ｗ",
+      "藁"
+    ],
+    "kana": [
+      "わら",
+      "わらい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "LOL",
+          "haha"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1058250",
+    "kanji": [],
+    "kana": [
+      "サンキュー",
+      "サンキュ",
+      "センキュー",
+      "センキュ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thank you",
+          "thanks"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  }
+]

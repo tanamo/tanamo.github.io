@@ -1,0 +1,658 @@
+[
+  {
+    "id": "2088750",
+    "kanji": [
+      "行ってらっしゃい"
+    ],
+    "kana": [
+      "いってらっしゃい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "have a good day",
+          "take care",
+          "see you"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2149180",
+    "kanji": [
+      "行ってまいります",
+      "行って参ります",
+      "いって参ります"
+    ],
+    "kana": [
+      "いってまいります"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "good bye",
+          "I'm off",
+          "see you later"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1001150",
+    "kanji": [],
+    "kana": [
+      "えっと",
+      "えーと",
+      "えーっと",
+      "ええと",
+      "ええっと"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "let me see",
+          "well",
+          "errr ...",
+          "uhh ..."
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2411600",
+    "kanji": [
+      "お掛け下さい",
+      "おかけ下さい",
+      "御掛け下さい"
+    ],
+    "kana": [
+      "おかけください"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "please sit down",
+          "please have a seat"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1270220",
+    "kanji": [
+      "お陰様で",
+      "お蔭様で",
+      "お陰さまで",
+      "おかげ様で",
+      "御陰様で",
+      "御蔭様で"
+    ],
+    "kana": [
+      "おかげさまで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thankfully",
+          "fortunately",
+          "luckily",
+          "by God's grace",
+          "under the gods' shadow"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "thanks to your (his, their, everyone's, etc.) kindness",
+          "thanks to your assistance",
+          "thanks to your support",
+          "thanks to your efforts"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2167510",
+    "kanji": [
+      "お気の毒に"
+    ],
+    "kana": [
+      "おきのどくに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "my sympathies",
+          "that's too bad",
+          "my condolences"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2847540",
+    "kanji": [
+      "元気でね"
+    ],
+    "kana": [
+      "げんきでね"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "take care",
+          "take good care of yourself"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1002050",
+    "kanji": [
+      "お邪魔します",
+      "御邪魔します"
+    ],
+    "kana": [
+      "おじゃまします"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "please excuse the intrusion",
+          "I'm coming in"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1002390",
+    "kanji": [
+      "お大事に"
+    ],
+    "kana": [
+      "おだいじに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "take care of yourself",
+          "get well soon"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1001720",
+    "kanji": [
+      "お願いします",
+      "御願いします"
+    ],
+    "kana": [
+      "おねがいします"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "please"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1612820",
+    "kanji": [
+      "お早う",
+      "御早う"
+    ],
+    "kana": [
+      "おはよう",
+      "おはよー"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "good morning"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2149640",
+    "kanji": [
+      "お待たせしました"
+    ],
+    "kana": [
+      "おまたせしました"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thank you for waiting",
+          "sorry to have kept you waiting"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1002360",
+    "kanji": [
+      "お待ちどおさま",
+      "お待ち遠様",
+      "お待ちどうさま",
+      "御待ち遠様",
+      "お待ち遠さま",
+      "お待ちどお様",
+      "お待ちどう様"
+    ],
+    "kana": [
+      "おまちどおさま",
+      "おまちどうさま"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "I'm sorry to have kept you waiting"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1002790",
+    "kanji": [
+      "畏まりました"
+    ],
+    "kana": [
+      "かしこまりました"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "certainly!"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2008040",
+    "kanji": [
+      "斯うして"
+    ],
+    "kana": [
+      "こうして"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thus",
+          "in this way"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1270520",
+    "kanji": [
+      "ご馳走様",
+      "ご馳走さま",
+      "御馳走様"
+    ],
+    "kana": [
+      "ごちそうさま"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thank you (for the meal)",
+          "that was a delicious meal"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "thank you (for displaying lovey-dovey behaviour)"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1004510",
+    "kanji": [],
+    "kana": [
+      "こちらこそ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "it is I who should say so"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1270690",
+    "kanji": [
+      "ご免ください",
+      "御免下さい",
+      "ご免下さい",
+      "御免ください"
+    ],
+    "kana": [
+      "ごめんください"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "may I come in?"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "please forgive me",
+          "I'm sorry"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1289480",
+    "kanji": [
+      "今晩は"
+    ],
+    "kana": [
+      "こんばんは",
+      "こんばんわ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "good evening"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1291050",
+    "kanji": [
+      "左様なら"
+    ],
+    "kana": [
+      "さようなら",
+      "サヨウナラ",
+      "サヨーナラ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "farewell",
+          "adieu",
+          "goodbye",
+          "so long"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1982210",
+    "kanji": [
+      "そう言えば"
+    ],
+    "kana": [
+      "そういえば"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "now that you mention it",
+          "come to think of it",
+          "that reminds me",
+          "on that subject",
+          "speaking of which"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1006850",
+    "kanji": [
+      "その為",
+      "其の為",
+      "其のため"
+    ],
+    "kana": [
+      "そのため"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hence",
+          "for that reason"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2055520",
+    "kanji": [],
+    "kana": [
+      "それなのに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "and yet",
+          "despite this",
+          "but even so",
+          "but even then",
+          "however",
+          "nevertheless",
+          "for all that",
+          "notwithstanding that"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1416190",
+    "kanji": [
+      "但し"
+    ],
+    "kana": [
+      "ただし"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "but",
+          "however",
+          "provided that"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1008960",
+    "kanji": [
+      "どうぞ宜しく"
+    ],
+    "kana": [
+      "どうぞよろしく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pleased to meet you",
+          "how do you do"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "my regards (to someone)",
+          "my greetings",
+          "best wishes",
+          "remember me to"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1307520",
+    "kanji": [
+      "初めに",
+      "始めに"
+    ],
+    "kana": [
+      "はじめに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "first",
+          "firstly",
+          "first of all",
+          "to begin with",
+          "in the beginning",
+          "at the beginning"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "Introduction",
+          "Preface"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1625780",
+    "kanji": [
+      "初めまして",
+      "始めまして"
+    ],
+    "kana": [
+      "はじめまして"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "nice to meet you",
+          "I'm glad to make your acquaintance",
+          "how do you do?"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1524990",
+    "kanji": [
+      "又は"
+    ],
+    "kana": [
+      "または"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "or",
+          "either ... or ..."
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  }
+]

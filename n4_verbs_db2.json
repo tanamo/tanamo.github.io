@@ -1,0 +1,11597 @@
+[
+  {
+    "id": "1284430",
+    "kanji": [
+      "合う"
+    ],
+    "kana": [
+      "あう",
+      "おう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to come together",
+          "to merge",
+          "to unite",
+          "to meet"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fit",
+          "to match",
+          "to suit",
+          "to agree with",
+          "to be correct"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be profitable",
+          "to be equitable"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to do ... to each other",
+          "to do ... together"
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v5u"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1352290",
+    "kanji": [
+      "上がる",
+      "揚がる",
+      "挙がる",
+      "上る"
+    ],
+    "kana": [
+      "あがる",
+      "アガる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to rise",
+          "to go up",
+          "to come up",
+          "to ascend",
+          "to be raised"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to enter (esp. from outdoors)",
+          "to come in",
+          "to go in"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to enter (a school)",
+          "to advance to the next grade"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to get out (of water)",
+          "to come ashore"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to increase"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to improve",
+          "to make progress"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be promoted",
+          "to advance"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be made (of profit, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to occur (esp. of a favourable result)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be adequate (to cover expenses, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be finished",
+          "to be done",
+          "to be over"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to stop (of rain)",
+          "to lift"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to stop (working properly)",
+          "to cut out",
+          "to give out",
+          "to die"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to win (in a card game, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be arrested"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to turn up (of evidence, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be deep fried"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be spoken loudly"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to get nervous",
+          "to get stage fright"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be offered (to the gods, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go",
+          "to visit"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to eat",
+          "to drink"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be listed (as a candidate)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to serve (in one's master's home)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go north"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be complete",
+          "to finish"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "v5r"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1586270",
+    "kanji": [
+      "開く",
+      "空く",
+      "明く"
+    ],
+    "kana": [
+      "あく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to open (e.g. doors)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to open (e.g. business, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be empty"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be vacant",
+          "to be available",
+          "to be free"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be open (e.g. neckline, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to have been opened (of one's eyes, mouth, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come to an end"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to open (one's eyes, mouth, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to have a hole",
+          "to form a gap",
+          "to have an interval (between events)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1352320",
+    "kanji": [
+      "上げる",
+      "挙げる",
+      "揚げる"
+    ],
+    "kana": [
+      "あげる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to raise",
+          "to elevate"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do up (one's hair)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to fly (a kite, etc.)",
+          "to launch (fireworks, etc.)",
+          "to surface (a submarine, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to land (a boat)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to deep-fry"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to show someone (into a room)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to give"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to send someone (away)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to enrol (one's child in school)",
+          "to enroll"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to increase (price, quality, status, etc.)",
+          "to develop (talent, skill)",
+          "to improve"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make (a loud sound)",
+          "to raise (one's voice)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to earn (something desirable)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to praise"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to give (an example, etc.)",
+          "to cite"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to summon up (all of one's energy, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to arrest"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to nominate"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to summon (for geishas, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to bear (a child)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to conduct (a ceremony, esp. a wedding)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "(of the tide) to come in"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to vomit"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do for (the sake of someone else)"
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v1"
+        ]
+      },
+      {
+        "gloss": [
+          "to complete ..."
+        ],
+        "partOfSpeech": [
+          "suf",
+          "v1"
+        ]
+      },
+      {
+        "gloss": [
+          "to humbly do ..."
+        ],
+        "partOfSpeech": [
+          "suf",
+          "v1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1333550",
+    "kanji": [
+      "集まる",
+      "集る"
+    ],
+    "kana": [
+      "あつまる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to gather",
+          "to collect",
+          "to assemble"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1333560",
+    "kanji": [
+      "集める"
+    ],
+    "kana": [
+      "あつめる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to collect",
+          "to assemble",
+          "to gather"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1323010",
+    "kanji": [
+      "謝る"
+    ],
+    "kana": [
+      "あやまる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to apologize",
+          "to apologise"
+        ],
+        "partOfSpeech": [
+          "v5r"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1019420",
+    "kanji": [],
+    "kana": [
+      "アルバイト"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "part-time job",
+          "side job"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "part-time worker"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1153890",
+    "kanji": [
+      "安心",
+      "安神"
+    ],
+    "kana": [
+      "あんしん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "peace of mind",
+          "relief",
+          "(sense of) security",
+          "safety",
+          "assurance",
+          "confidence"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1154860",
+    "kanji": [
+      "案内"
+    ],
+    "kana": [
+      "あんない",
+      "あない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "guidance",
+          "leading (the way)",
+          "showing around"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "information",
+          "notice",
+          "notification"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "announcement (of a visitor's arrival)",
+          "informing (someone) of a visitor's arrival"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "invitation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "acquaintance",
+          "knowledge"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1378520",
+    "kanji": [
+      "生きる",
+      "活きる"
+    ],
+    "kana": [
+      "いきる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to live",
+          "to exist"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to make a living",
+          "to subsist"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be in effect",
+          "to be in use",
+          "to function"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come to life",
+          "to be enlivened"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be safe (in baseball, go, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1156530",
+    "kanji": [
+      "意見"
+    ],
+    "kana": [
+      "いけん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "opinion",
+          "view",
+          "comment"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "scolding",
+          "reprimand",
+          "rebuke",
+          "admonition",
+          "cautioning",
+          "warning"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1195140",
+    "kanji": [
+      "苛める",
+      "虐める"
+    ],
+    "kana": [
+      "いじめる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to ill-treat",
+          "to bully",
+          "to torment",
+          "to pick on",
+          "to tease",
+          "to be cruel to",
+          "to persecute"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be tough on (e.g. one's body)",
+          "to treat harshly"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1228650",
+    "kanji": [
+      "急ぐ"
+    ],
+    "kana": [
+      "いそぐ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to hurry",
+          "to rush",
+          "to hasten",
+          "to make something happen sooner"
+        ],
+        "partOfSpeech": [
+          "v5g",
+          "vi",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1421900",
+    "kanji": [
+      "致す"
+    ],
+    "kana": [
+      "いたす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to do"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1587290",
+    "kanji": [
+      "頂く",
+      "戴く"
+    ],
+    "kana": [
+      "いただく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to receive",
+          "to get",
+          "to accept",
+          "to take",
+          "to buy"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to eat",
+          "to drink"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be crowned with",
+          "to wear (on one's head)",
+          "to have (on top)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to have (as one's leader)",
+          "to live under (a ruler)",
+          "to install (a president)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to get someone to do something"
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v5k"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1222770",
+    "kanji": [
+      "祈る",
+      "祷る",
+      "禱る"
+    ],
+    "kana": [
+      "いのる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to pray",
+          "to say a prayer",
+          "to say grace"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to wish",
+          "to hope"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1000940",
+    "kanji": [],
+    "kana": [
+      "いらっしゃる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to come",
+          "to go",
+          "to be (somewhere)"
+        ],
+        "partOfSpeech": [
+          "v5aru",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be (doing)"
+        ],
+        "partOfSpeech": [
+          "v5aru",
+          "aux-v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1357250",
+    "kanji": [
+      "植える"
+    ],
+    "kana": [
+      "うえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to plant",
+          "to grow",
+          "to raise"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to insert",
+          "to transplant",
+          "to implant",
+          "to set (type)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to inoculate (e.g. an infectious agent)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to instill (idea, value, etc.)",
+          "to inculcate"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1305700",
+    "kanji": [
+      "伺う"
+    ],
+    "kana": [
+      "うかがう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to call on someone",
+          "to call at a place",
+          "to pay a visit",
+          "to wait on someone"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to ask",
+          "to inquire"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to hear",
+          "to be told"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to implore (a god for an oracle)",
+          "to seek direction (from your superior)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to speak to (a large crowd at a theatre, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1588060",
+    "kanji": [
+      "受付",
+      "受け付け",
+      "受付け",
+      "受けつけ",
+      "受け付",
+      "受附"
+    ],
+    "kana": [
+      "うけつけ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "reception (desk)",
+          "information desk",
+          "receptionist",
+          "information clerk"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "receipt",
+          "acceptance"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1329590",
+    "kanji": [
+      "受ける",
+      "請ける",
+      "承ける",
+      "享ける"
+    ],
+    "kana": [
+      "うける",
+      "ウケる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to receive",
+          "to get"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to catch (e.g. a ball)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be struck by (wind, waves, sunlight, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to sustain (damage)",
+          "to incur (a loss)",
+          "to suffer (an injury)",
+          "to feel (influence)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to undergo (e.g. surgery)",
+          "to take (a test)",
+          "to accept (a challenge)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be given (e.g. life, talent)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to find funny",
+          "to find humorous",
+          "to be amused (by)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to follow",
+          "to succeed",
+          "to be descended from"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to face (south, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be modified by"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to obtain (a pawned item, etc.) by paying a fee"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be well-received",
+          "to become popular",
+          "to go down well"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1451210",
+    "kanji": [
+      "動く"
+    ],
+    "kana": [
+      "うごく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to move",
+          "to stir",
+          "to shift",
+          "to shake",
+          "to swing"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to operate",
+          "to run",
+          "to go",
+          "to work"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to make a move",
+          "to take action",
+          "to act",
+          "to go into action"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be touched",
+          "to be influenced"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to change",
+          "to vary",
+          "to fluctuate",
+          "to waver"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be transferred"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1408810",
+    "kanji": [
+      "打つ",
+      "拍つ",
+      "搏つ",
+      "撲つ",
+      "擣つ"
+    ],
+    "kana": [
+      "うつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to hit",
+          "to strike",
+          "to knock",
+          "to beat",
+          "to punch",
+          "to slap",
+          "to tap",
+          "to bang",
+          "to clap",
+          "to pound"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to strike (noon, etc.)",
+          "to sound (cymbals, etc.)",
+          "to beat (a drum, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to beat (rhythmically, e.g. pulse, waves, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to move",
+          "to impress",
+          "to touch"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to drive in",
+          "to hammer in",
+          "to put in",
+          "to inject",
+          "to vaccinate"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to type",
+          "to send",
+          "to transmit"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to insert",
+          "to write in",
+          "to mark"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make (noodles, etc.)",
+          "to prepare"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to till (soil)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to sprinkle",
+          "to throw",
+          "to cast"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do",
+          "to carry out",
+          "to play",
+          "to perform",
+          "to engage in (gambling, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to pay (a deposit, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to visit (on a pilgrimage)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to line (a coat)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to bind (a criminal)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to drop (a piece)"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1588320",
+    "kanji": [
+      "写す",
+      "撮す"
+    ],
+    "kana": [
+      "うつす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to copy",
+          "to duplicate",
+          "to reproduce",
+          "to trace",
+          "to transcribe"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to describe",
+          "to depict",
+          "to portray",
+          "to express"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to imitate",
+          "to model after"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to take (a photo)",
+          "to photograph",
+          "to film",
+          "to shoot"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1158210",
+    "kanji": [
+      "移る",
+      "遷る"
+    ],
+    "kana": [
+      "うつる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to move (house)",
+          "to transfer (department)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to change the target of interest or concern"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to elapse (passage of time)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be permeated by a colour or scent"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be infected",
+          "to be contagious",
+          "to spread (as in fire)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1172830",
+    "kanji": [
+      "運転"
+    ],
+    "kana": [
+      "うんてん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "operation (of a machine)",
+          "running",
+          "working"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "driving (a vehicle)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "use (of capital, funds, etc.)",
+          "management",
+          "investment"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1172910",
+    "kanji": [
+      "運動"
+    ],
+    "kana": [
+      "うんどう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "exercise",
+          "physical training",
+          "workout",
+          "sports",
+          "athletics"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "appeal",
+          "campaign",
+          "drive",
+          "crusade",
+          "movement",
+          "lobbying"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "motion",
+          "movement"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1588730",
+    "kanji": [
+      "選ぶ",
+      "撰ぶ",
+      "択ぶ"
+    ],
+    "kana": [
+      "えらぶ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to choose",
+          "to select"
+        ],
+        "partOfSpeech": [
+          "v5b",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1001180",
+    "kanji": [
+      "お出でになる",
+      "御出でになる"
+    ],
+    "kana": [
+      "おいでになる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "v5r"
+        ]
+      },
+      {
+        "gloss": [
+          "to come"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "v5r"
+        ]
+      },
+      {
+        "gloss": [
+          "to go"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "v5r"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1402730",
+    "kanji": [
+      "送る"
+    ],
+    "kana": [
+      "おくる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to send (a thing)",
+          "to dispatch",
+          "to despatch",
+          "to transmit"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to take or escort (a person somewhere)",
+          "to see off (a person)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to bid farewell (to the departed)",
+          "to bury"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to spend (time)",
+          "to live one's life"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to pass (down the line)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to affix okurigana"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1589040",
+    "kanji": [
+      "遅れる",
+      "後れる"
+    ],
+    "kana": [
+      "おくれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be late",
+          "to be delayed",
+          "to fall behind schedule",
+          "to be overdue"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall behind (in a race, one's studies, etc.)",
+          "to lag behind",
+          "to be behind (the times)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be bereaved of",
+          "to be preceded by (someone) in death"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be slow (of a clock or watch)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1223660",
+    "kanji": [
+      "起こす",
+      "起す"
+    ],
+    "kana": [
+      "おこす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to raise",
+          "to raise up",
+          "to set up",
+          "to pick up"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to wake",
+          "to wake up",
+          "to waken",
+          "to awaken"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to cause",
+          "to bring about",
+          "to lead to",
+          "to trigger",
+          "to give rise to",
+          "to create",
+          "to generate (e.g. heat, electricity)",
+          "to produce"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to start",
+          "to begin",
+          "to launch",
+          "to establish",
+          "to found",
+          "to set up",
+          "to open"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to plough",
+          "to plow",
+          "to till"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall ill with"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to transcribe",
+          "to write down (what is spoken)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to turn over (a card)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1589060",
+    "kanji": [
+      "行う",
+      "行なう"
+    ],
+    "kana": [
+      "おこなう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to perform",
+          "to do",
+          "to conduct oneself",
+          "to carry out"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1445690",
+    "kanji": [
+      "怒る"
+    ],
+    "kana": [
+      "おこる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to get angry",
+          "to get mad",
+          "to lose one's temper"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to scold",
+          "to tell (someone) off"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1548550",
+    "kanji": [
+      "落ちる",
+      "墜ちる",
+      "落る"
+    ],
+    "kana": [
+      "おちる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to fall",
+          "to drop",
+          "to come down",
+          "to crash",
+          "to collapse",
+          "to cave in",
+          "to give way"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to set (of the sun or moon)",
+          "to sink",
+          "to dip",
+          "to go down"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to decrease (of popularity, quality, speed, sales, etc.)",
+          "to fall",
+          "to drop",
+          "to go down",
+          "to decline",
+          "to deteriorate",
+          "to abate (of wind)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be inferior (to)",
+          "to be not as good (as)",
+          "to fall short (of)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come off (of dirt, paint, makeup, etc.)",
+          "to come out (of a stain)",
+          "to fade (of colour)",
+          "to be removed (of an illness, possessing spirit, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to disappear (of excess fat)",
+          "to become thinner",
+          "to become leaner"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be left out",
+          "to be omitted",
+          "to be missing"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fail (an exam)",
+          "to lose (a contest, election, etc.)",
+          "to be unsuccessful"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to decline (of morals, character, etc.)",
+          "to become vulgar (e.g. of a conversation)",
+          "to stoop (to)",
+          "to sink (so low)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be ruined",
+          "to go under",
+          "to fall (into hell)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall (in love, asleep, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall (into someone's hands)",
+          "to be accepted (of a bid)",
+          "to be won (of a tender)",
+          "to be honoured (of a bill)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall into (a trap)",
+          "to fall for (a trick)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to give in"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to confess",
+          "to own up"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come to (a conclusion, topic, etc.)",
+          "to arrive at (in the end)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to leave (a city, castle, etc.)",
+          "to (be defeated and) flee"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to sink in",
+          "to be accepted (in one's heart)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall (to the enemy)",
+          "to be defeated"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come in (of money)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall (upon; of light, a shadow, one's gaze, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to pass out (in judo)",
+          "to fall unconscious"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go down (of a website, server, etc.)",
+          "to crash"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to log out (of an online game, chat room, etc.)",
+          "to drop out",
+          "to leave",
+          "to go offline"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to move to deeper water (of a fish in cold weather)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to die (of an animal)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1238840",
+    "kanji": [
+      "仰る",
+      "仰有る",
+      "仰しゃる",
+      "仰っしゃる"
+    ],
+    "kana": [
+      "おっしゃる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to say",
+          "to speak",
+          "to tell",
+          "to talk"
+        ],
+        "partOfSpeech": [
+          "v5aru",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1589260",
+    "kanji": [
+      "落とす",
+      "落す",
+      "堕とす",
+      "墜とす"
+    ],
+    "kana": [
+      "おとす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to drop",
+          "to lose",
+          "to let fall",
+          "to shed (light)",
+          "to cast (one's gaze)",
+          "to pour in (liquid)",
+          "to leave behind"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to clean off (dirt, makeup, paint, etc.)",
+          "to remove (e.g. stains or facial hair)",
+          "to lose",
+          "to spend money at a certain place",
+          "to omit",
+          "to leave out",
+          "to secretly let escape"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to lose (a match)",
+          "to reject (an applicant)",
+          "to fail (a course)",
+          "to defeat (in an election)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to lower (e.g. shoulders or voice)",
+          "to lessen (e.g. production or body weight)",
+          "to worsen (quality)",
+          "to reduce (e.g. rank or popularity)",
+          "to speak badly of",
+          "to make light of",
+          "to fall into straitened circumstances"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall into (e.g. a dilemma or sin)",
+          "to make one's own",
+          "to have one's bid accepted",
+          "to force surrender",
+          "to take (e.g. an enemy camp or castle)",
+          "to forcefully convince",
+          "to press for a confession",
+          "to deal with"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to download",
+          "to copy from a computer to another medium"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make someone swoon (judo)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to finish a story (e.g. with the punch line)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to finish (a period, e.g. of fasting)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to win over",
+          "to seduce",
+          "to conquer (unwillingness)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1538440",
+    "kanji": [
+      "踊る"
+    ],
+    "kana": [
+      "おどる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to dance (orig. a hopping dance)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1238680",
+    "kanji": [
+      "驚く",
+      "愕く",
+      "駭く"
+    ],
+    "kana": [
+      "おどろく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be surprised",
+          "to be astonished"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1309260",
+    "kanji": [
+      "思い出す",
+      "思いだす",
+      "おもい出す",
+      "思出す"
+    ],
+    "kana": [
+      "おもいだす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to recall",
+          "to remember",
+          "to recollect"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1589350",
+    "kanji": [
+      "思う",
+      "想う",
+      "憶う",
+      "念う",
+      "懐う",
+      "惟う",
+      "意う"
+    ],
+    "kana": [
+      "おもう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to think",
+          "to consider",
+          "to believe",
+          "to reckon"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to think (of doing)",
+          "to plan (to do)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to judge",
+          "to assess",
+          "to regard"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to imagine",
+          "to suppose",
+          "to dream"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to expect",
+          "to look forward to"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to feel",
+          "to be (in a state of mind)",
+          "to desire",
+          "to want"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to recall",
+          "to remember"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1589500",
+    "kanji": [
+      "降りる",
+      "下りる"
+    ],
+    "kana": [
+      "おりる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to descend (e.g. a mountain)",
+          "to go down",
+          "to come down"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to alight (e.g. from bus)",
+          "to get off",
+          "to disembark",
+          "to dismount"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to step down",
+          "to retire",
+          "to give up",
+          "to quit",
+          "to fold"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be granted",
+          "to be issued",
+          "to be given"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to form (of frost, dew, mist, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be passed (from the body; e.g. of a roundworm)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1385910",
+    "kanji": [
+      "折る"
+    ],
+    "kana": [
+      "おる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to break",
+          "to fracture",
+          "to break off",
+          "to snap off",
+          "to pick (e.g. flowers)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to fold",
+          "to bend"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make (origami)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to interrupt",
+          "to end"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1385920",
+    "kanji": [
+      "折れる"
+    ],
+    "kana": [
+      "おれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to break",
+          "to be broken",
+          "to snap",
+          "to fracture"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be folded"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to give in",
+          "to back down",
+          "to yield",
+          "to submit"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to turn (a corner)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1198360",
+    "kanji": [
+      "会議"
+    ],
+    "kana": [
+      "かいぎ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "meeting",
+          "conference",
+          "session",
+          "assembly",
+          "council",
+          "convention",
+          "congress"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1198880",
+    "kanji": [
+      "会話"
+    ],
+    "kana": [
+      "かいわ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "conversation",
+          "talk",
+          "chat"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1510650",
+    "kanji": [
+      "変える"
+    ],
+    "kana": [
+      "かえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to change",
+          "to alter",
+          "to transform",
+          "to convert",
+          "to turn",
+          "to vary"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to reform",
+          "to revise",
+          "to amend"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1357210",
+    "kanji": [
+      "飾る",
+      "餝る",
+      "錺る",
+      "荘る"
+    ],
+    "kana": [
+      "かざる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to decorate",
+          "to ornament",
+          "to adorn"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to display",
+          "to exhibit",
+          "to put on show",
+          "to arrange"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to mark (e.g. the day with a victory)",
+          "to adorn (e.g. the front page)",
+          "to grace (e.g. the cover)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to affect (a manner)",
+          "to keep up (appearances)",
+          "to embellish",
+          "to dress up",
+          "to be showy",
+          "to be pretentious"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1511790",
+    "kanji": [
+      "片付ける",
+      "片づける"
+    ],
+    "kana": [
+      "かたづける"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to tidy up",
+          "to put in order",
+          "to straighten up",
+          "to put away"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to settle (problem)",
+          "to clear (dispute)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to finish",
+          "to bring something to an end"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to marry off (e.g. a daughter)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do away with someone",
+          "to bump someone off"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1346150",
+    "kanji": [
+      "勝つ",
+      "克つ",
+      "贏つ"
+    ],
+    "kana": [
+      "かつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to win",
+          "to gain victory"
+        ],
+        "partOfSpeech": [
+          "v5t",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1279680",
+    "kanji": [
+      "構う"
+    ],
+    "kana": [
+      "かまう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to mind",
+          "to care about",
+          "to be concerned about",
+          "to have a regard for"
+        ],
+        "partOfSpeech": [
+          "v5u"
+        ]
+      },
+      {
+        "gloss": [
+          "to be an issue",
+          "to matter",
+          "to create inconvenience"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to keep company",
+          "to care for",
+          "to look after",
+          "to entertain",
+          "to pay attention to",
+          "to spend time with"
+        ],
+        "partOfSpeech": [
+          "v5u"
+        ]
+      },
+      {
+        "gloss": [
+          "to interfere with",
+          "to meddle in"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to tease"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to banish",
+          "to prohibit"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1209240",
+    "kanji": [
+      "噛む",
+      "咬む",
+      "嚙む",
+      "嚼む"
+    ],
+    "kana": [
+      "かむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to bite"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to chew",
+          "to gnaw",
+          "to masticate"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to fumble one's words (esp. during a play, broadcast, etc.)",
+          "to falter with one's words",
+          "to stutter",
+          "to stammer"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to crash against (e.g. of waves)",
+          "to break onto (shore)"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to engage (of cogs, zippers, etc.)",
+          "to mesh",
+          "to fit together"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be involved in"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to convince",
+          "to persuade"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1432850",
+    "kanji": [
+      "通う"
+    ],
+    "kana": [
+      "かよう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to go to and from (a place)",
+          "to go back and forth between",
+          "to run between (e.g. bus, train, etc.)",
+          "to ply between"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go to (school, work, etc.)",
+          "to attend",
+          "to commute",
+          "to frequent"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to circulate (e.g. blood, electricity)",
+          "to be communicated (e.g. thought)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to resemble"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1209650",
+    "kanji": [
+      "乾く"
+    ],
+    "kana": [
+      "かわく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to get dry"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1510790",
+    "kanji": [
+      "変わる",
+      "変る"
+    ],
+    "kana": [
+      "かわる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to change",
+          "to be transformed",
+          "to be altered",
+          "to vary"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to move to"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be different",
+          "to be uncommon",
+          "to be unusual"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1281020",
+    "kanji": [
+      "考える",
+      "勘える",
+      "稽える"
+    ],
+    "kana": [
+      "かんがえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to think (about, of)",
+          "to think over",
+          "to ponder",
+          "to contemplate",
+          "to reflect (on)",
+          "to meditate (on)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to consider",
+          "to bear in mind",
+          "to allow for",
+          "to take into consideration"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to think (that)",
+          "to believe",
+          "to hold (a view)",
+          "to judge",
+          "to conclude",
+          "to suspect"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to intend (to do)",
+          "to think of (doing)",
+          "to plan"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to predict",
+          "to anticipate",
+          "to expect",
+          "to imagine"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to come up with",
+          "to think up",
+          "to contrive",
+          "to devise"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to consider (as)",
+          "to regard (as)",
+          "to look on (as)",
+          "to take",
+          "to view"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1215810",
+    "kanji": [
+      "関係"
+    ],
+    "kana": [
+      "かんけい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "relation",
+          "relationship",
+          "connection"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "participation",
+          "involvement",
+          "concern"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "influence",
+          "effect"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "sexual relations",
+          "sexual relationship"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "related to",
+          "connected to"
+        ],
+        "partOfSpeech": [
+          "n-suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1591150",
+    "kanji": [
+      "聞こえる",
+      "聞える",
+      "聴こえる",
+      "聴える"
+    ],
+    "kana": [
+      "きこえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be heard",
+          "to be audible",
+          "to reach one's ears"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to sound (like)",
+          "to come across (as)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be well known",
+          "to be famous"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to accept (someone's words)",
+          "to agree",
+          "to understand"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1591420",
+    "kanji": [
+      "決まる",
+      "決る",
+      "極る"
+    ],
+    "kana": [
+      "きまる",
+      "キマる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be decided",
+          "to be settled",
+          "to be fixed",
+          "to be arranged"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be unchanging",
+          "to be the same (as always)",
+          "to be fixed",
+          "to be set"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be a fixed rule",
+          "to be destined",
+          "to be a convention",
+          "to be a custom",
+          "to be common knowledge"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be well executed (of a manoeuvre in a sport, game, etc.)",
+          "to go well",
+          "to succeed",
+          "to connect (of a punch)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to look good (of clothing)",
+          "to look sharp",
+          "to be stylish",
+          "to suit one",
+          "to be held in place (of a hairdo)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be struck and held (of a pose in kabuki)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1254180",
+    "kanji": [
+      "決める",
+      "極める"
+    ],
+    "kana": [
+      "きめる",
+      "キメる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to decide",
+          "to choose",
+          "to determine",
+          "to make up one's mind",
+          "to resolve",
+          "to set one's heart on",
+          "to settle",
+          "to arrange",
+          "to set",
+          "to appoint",
+          "to fix"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to clinch (a victory)",
+          "to decide (the outcome of a match)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to persist in doing",
+          "to go through with"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to always do",
+          "to have made a habit of"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to take for granted",
+          "to assume"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to dress up",
+          "to dress to kill",
+          "to dress to the nines"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to carry out successfully (a move in sports, a pose in dance, etc.)",
+          "to succeed in doing"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to immobilize with a double-arm lock (in sumo, judo, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to eat or drink something",
+          "to take illegal drugs"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1236950",
+    "kanji": [
+      "教育"
+    ],
+    "kana": [
+      "きょういく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "education",
+          "schooling",
+          "training",
+          "instruction",
+          "teaching",
+          "upbringing"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "culture",
+          "cultivation",
+          "education"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1234140",
+    "kanji": [
+      "競争"
+    ],
+    "kana": [
+      "きょうそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "competition",
+          "contest",
+          "rivalry",
+          "race"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "competition (between organisms or species)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1184280",
+    "kanji": [
+      "下さる"
+    ],
+    "kana": [
+      "くださる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to give",
+          "to confer",
+          "to bestow"
+        ],
+        "partOfSpeech": [
+          "v5aru"
+        ]
+      },
+      {
+        "gloss": [
+          "to kindly do for one",
+          "to oblige",
+          "to favour",
+          "to favor"
+        ],
+        "partOfSpeech": [
+          "v5aru"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1483540",
+    "kanji": [
+      "比べる",
+      "較べる",
+      "競べる"
+    ],
+    "kana": [
+      "くらべる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to compare",
+          "to make a comparison"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to compete",
+          "to vie"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1269130",
+    "kanji": [
+      "呉れる"
+    ],
+    "kana": [
+      "くれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to give",
+          "to let (one) have"
+        ],
+        "partOfSpeech": [
+          "v1-s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to give"
+        ],
+        "partOfSpeech": [
+          "v1-s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do for one",
+          "to take the trouble to do"
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v1-s"
+        ]
+      },
+      {
+        "gloss": [
+          "to do to someone's disadvantage"
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v1-s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1514960",
+    "kanji": [
+      "暮れる",
+      "眩れる",
+      "暗れる",
+      "昏れる"
+    ],
+    "kana": [
+      "くれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to get dark",
+          "to grow dark"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to end (of a day, year, season, etc.)",
+          "to come to an end",
+          "to close"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be sunk in (e.g. despair)",
+          "to be lost in (e.g. thought)",
+          "to be overcome with"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1252090",
+    "kanji": [
+      "計画"
+    ],
+    "kana": [
+      "けいかく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "plan",
+          "project",
+          "schedule",
+          "scheme",
+          "program",
+          "programme"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1251270",
+    "kanji": [
+      "経験"
+    ],
+    "kana": [
+      "けいけん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "experience"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1261190",
+    "kanji": [
+      "原因"
+    ],
+    "kana": [
+      "げんいん",
+      "げいいん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "cause",
+          "origin",
+          "source"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1257040",
+    "kanji": [
+      "喧嘩",
+      "諠譁"
+    ],
+    "kana": [
+      "けんか",
+      "ケンカ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "quarrel",
+          "brawl",
+          "fight",
+          "squabble",
+          "scuffle",
+          "argument"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1258520",
+    "kanji": [
+      "研究",
+      "硏究"
+    ],
+    "kana": [
+      "けんきゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "study",
+          "research",
+          "investigation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1260000",
+    "kanji": [
+      "見物"
+    ],
+    "kana": [
+      "けんぶつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "sightseeing",
+          "watching",
+          "viewing"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "sightseer",
+          "spectator",
+          "viewer",
+          "onlooker"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1282260",
+    "kanji": [
+      "講義"
+    ],
+    "kana": [
+      "こうぎ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "lecture"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1267180",
+    "kanji": [
+      "故障"
+    ],
+    "kana": [
+      "こしょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fault",
+          "trouble",
+          "breakdown",
+          "failure",
+          "being out of order"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "damage (to a part of the body)",
+          "injury",
+          "hurt"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "problem",
+          "hitch",
+          "obstacle",
+          "hindrance"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "objection",
+          "protest"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2852531",
+    "kanji": [
+      "応え",
+      "答え"
+    ],
+    "kana": [
+      "いらえ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "reply",
+          "response"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1593590",
+    "kanji": [
+      "ご馳走",
+      "御馳走"
+    ],
+    "kana": [
+      "ごちそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "treat (esp. food and drink)",
+          "entertainment",
+          "treating someone (to a meal)",
+          "taking someone to dinner"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "gorgeous dinner",
+          "feast",
+          "excellent food",
+          "special dish",
+          "delicacy"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1593410",
+    "kanji": [
+      "込む"
+    ],
+    "kana": [
+      "こむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be crowded",
+          "to be packed",
+          "to be congested",
+          "to be thronged (with)"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be complex",
+          "to be intricate"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go into",
+          "to go in",
+          "to put into"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "to become (completely)"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "to do thoroughly",
+          "to do sufficiently"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "to remain (silent, seated, etc.)",
+          "to stay ..."
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2217040",
+    "kanji": [
+      "ご覧になる",
+      "御覧になる"
+    ],
+    "kana": [
+      "ごらんになる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to see",
+          "to look",
+          "to watch"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "v5r"
+        ]
+      },
+      {
+        "gloss": [
+          "to try to ..."
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v5r"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1199890",
+    "kanji": [
+      "壊す",
+      "毀す"
+    ],
+    "kana": [
+      "こわす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to break",
+          "to destroy",
+          "to demolish"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to wreck",
+          "to ruin",
+          "to spoil",
+          "to damage"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to break (a bill, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1199900",
+    "kanji": [
+      "壊れる",
+      "毀れる"
+    ],
+    "kana": [
+      "こわれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be broken",
+          "to break",
+          "to fall apart",
+          "to collapse",
+          "to be destroyed",
+          "to be damaged"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to break (down)",
+          "to stop working"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall through (of a plan, deal, etc.)",
+          "to collapse",
+          "to break down (of a relationship, negotiations, etc.)",
+          "to be broken off",
+          "to be ruined (of an atmosphere, one's image, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1593670",
+    "kanji": [
+      "探す",
+      "捜す"
+    ],
+    "kana": [
+      "さがす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to search for",
+          "to look for",
+          "to hunt for",
+          "to seek"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to search (a house, pocket, etc.)",
+          "to search through",
+          "to rummage in (e.g. a drawer)",
+          "to fish around"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1184160",
+    "kanji": [
+      "下がる",
+      "下る"
+    ],
+    "kana": [
+      "さがる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to come down",
+          "to go down",
+          "to fall",
+          "to drop",
+          "to sink",
+          "to get lower"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to hang",
+          "to dangle"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to move back",
+          "to step back",
+          "to withdraw",
+          "to retire"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to deteriorate",
+          "to fall off",
+          "to be downgraded"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to get closer to the present day"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go south"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1184170",
+    "kanji": [
+      "下げる"
+    ],
+    "kana": [
+      "さげる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to hang",
+          "to suspend",
+          "to wear (e.g. decoration)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to lower",
+          "to reduce",
+          "to bring down"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to demote",
+          "to move back",
+          "to pull back"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to clear (plates)",
+          "to remove (food, etc. from table or altar)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to keep on playing after one has formed a scoring combination with captured cards"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1291270",
+    "kanji": [
+      "差し上げる",
+      "差上げる",
+      "さし上げる",
+      "差しあげる"
+    ],
+    "kana": [
+      "さしあげる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to lift up",
+          "to hold up",
+          "to raise"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to give",
+          "to present",
+          "to offer"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do (for someone)"
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1403040",
+    "kanji": [
+      "騒ぐ",
+      "騷ぐ"
+    ],
+    "kana": [
+      "さわぐ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to make noise",
+          "to make racket",
+          "to be noisy"
+        ],
+        "partOfSpeech": [
+          "v5g",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to rustle",
+          "to swoosh"
+        ],
+        "partOfSpeech": [
+          "v5g",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to make merry"
+        ],
+        "partOfSpeech": [
+          "v5g",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to clamor",
+          "to clamour",
+          "to make a fuss",
+          "to kick up a fuss"
+        ],
+        "partOfSpeech": [
+          "v5g",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to lose one's cool",
+          "to panic",
+          "to act flustered"
+        ],
+        "partOfSpeech": [
+          "v5g",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to feel tense",
+          "to be uneasy",
+          "to be excited"
+        ],
+        "partOfSpeech": [
+          "v5g",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1357980",
+    "kanji": [
+      "触る"
+    ],
+    "kana": [
+      "さわる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to touch",
+          "to feel"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to get involved (with)",
+          "to approach"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be harmful to",
+          "to hinder",
+          "to interfere with",
+          "to irritate"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1312420",
+    "kanji": [
+      "試合",
+      "仕合"
+    ],
+    "kana": [
+      "しあい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "match",
+          "game",
+          "bout",
+          "contest"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1312350",
+    "kanji": [
+      "試験"
+    ],
+    "kana": [
+      "しけん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "examination",
+          "exam",
+          "test"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "trial",
+          "experiment",
+          "test"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1310260",
+    "kanji": [
+      "支度",
+      "仕度"
+    ],
+    "kana": [
+      "したく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "preparation",
+          "arrangements"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1320140",
+    "kanji": [
+      "失敗"
+    ],
+    "kana": [
+      "しっぱい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "failure",
+          "mistake",
+          "blunder"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1323500",
+    "kanji": [
+      "邪魔"
+    ],
+    "kana": [
+      "じゃま"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hindrance",
+          "obstacle",
+          "nuisance",
+          "disturbance",
+          "interruption",
+          "interference"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to visit (someone's home)"
+        ],
+        "partOfSpeech": [
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "demon who hinders Buddhist training",
+          "demon who obstructs sentient beings from maintaining moral behaviour"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1335080",
+    "kanji": [
+      "十分",
+      "充分"
+    ],
+    "kana": [
+      "じゅうぶん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "enough",
+          "sufficient",
+          "plenty",
+          "adequate",
+          "satisfactory"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "sufficiently",
+          "fully",
+          "thoroughly",
+          "well",
+          "perfectly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "division into ten"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1339460",
+    "kanji": [
+      "出席"
+    ],
+    "kana": [
+      "しゅっせき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "attendance",
+          "presence",
+          "appearance"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1340000",
+    "kanji": [
+      "出発"
+    ],
+    "kana": [
+      "しゅっぱつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "departure",
+          "leaving",
+          "setting off"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1341670",
+    "kanji": [
+      "準備"
+    ],
+    "kana": [
+      "じゅんび"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "preparation",
+          "arrangements",
+          "getting ready",
+          "provision",
+          "setup",
+          "reserving"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1351430",
+    "kanji": [
+      "紹介"
+    ],
+    "kana": [
+      "しょうかい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "introduction",
+          "presentation",
+          "referral",
+          "showcase (of a product)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1349610",
+    "kanji": [
+      "招待",
+      "請待"
+    ],
+    "kana": [
+      "しょうたい",
+      "しょうだい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "invitation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1349480",
+    "kanji": [
+      "承知"
+    ],
+    "kana": [
+      "しょうち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "knowledge",
+          "awareness"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "acceptance",
+          "consent",
+          "assent",
+          "agreement",
+          "compliance",
+          "acknowledgment",
+          "acknowledgement"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "forgiving",
+          "pardoning",
+          "excusing"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1347710",
+    "kanji": [
+      "将来",
+      "將來"
+    ],
+    "kana": [
+      "しょうらい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "future",
+          "(future) prospects"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "bringing (from abroad, another region, etc.)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "bringing about",
+          "giving rise to",
+          "causing",
+          "incurring"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1358490",
+    "kanji": [
+      "食事"
+    ],
+    "kana": [
+      "しょくじ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "meal",
+          "dinner"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "diet"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1420410",
+    "kanji": [
+      "知らせる",
+      "報せる"
+    ],
+    "kana": [
+      "しらせる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to notify",
+          "to advise",
+          "to inform"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1429060",
+    "kanji": [
+      "調べる"
+    ],
+    "kana": [
+      "しらべる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to examine",
+          "to look up",
+          "to investigate",
+          "to check up",
+          "to sense",
+          "to study",
+          "to inquire",
+          "to search"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1360930",
+    "kanji": [
+      "心配"
+    ],
+    "kana": [
+      "しんぱい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "worry",
+          "concern",
+          "anxiety",
+          "uneasiness",
+          "fear"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "care",
+          "help",
+          "aid",
+          "assistance"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1371320",
+    "kanji": [
+      "水泳"
+    ],
+    "kana": [
+      "すいえい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "swimming"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1195970",
+    "kanji": [
+      "過ぎる"
+    ],
+    "kana": [
+      "すぎる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to pass through",
+          "to pass by",
+          "to go beyond"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to pass (of time)",
+          "to elapse"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to have expired",
+          "to have ended",
+          "to be over"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to exceed",
+          "to surpass",
+          "to be above"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be no more than ..."
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be excessive",
+          "to be too much",
+          "to be too ..."
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi",
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1586265",
+    "kanji": [
+      "空く"
+    ],
+    "kana": [
+      "すく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to become less crowded",
+          "to thin out",
+          "to get empty"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be hungry"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1365980",
+    "kanji": [
+      "進む"
+    ],
+    "kana": [
+      "すすむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to advance",
+          "to go forward"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to precede",
+          "to go ahead (of)"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to make progress",
+          "to improve"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to deepen",
+          "to heighten"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be fast (of a clock)",
+          "to be ahead"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to do of one's own free will"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1322320",
+    "kanji": [
+      "捨てる",
+      "棄てる"
+    ],
+    "kana": [
+      "すてる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to throw away",
+          "to cast away",
+          "to dump",
+          "to discard"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to abandon",
+          "to desert",
+          "to leave"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to give up",
+          "to resign"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1208640",
+    "kanji": [
+      "滑る",
+      "辷る"
+    ],
+    "kana": [
+      "すべる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to glide",
+          "to slide (e.g. on skis)",
+          "to slip"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fail (an examination)",
+          "to bomb (when telling a joke)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to drop",
+          "to go down",
+          "to come down",
+          "to fall (e.g. in status)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1295070",
+    "kanji": [
+      "済む",
+      "濟む"
+    ],
+    "kana": [
+      "すむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to finish",
+          "to end",
+          "to be completed"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to merely result in something less severe than expected"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to feel at ease"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to feel unease or guilt for troubling someone",
+          "to be sorry"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1378860",
+    "kanji": [
+      "生活"
+    ],
+    "kana": [
+      "せいかつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "life",
+          "living"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "livelihood",
+          "(one's) living"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1378990",
+    "kanji": [
+      "生産"
+    ],
+    "kana": [
+      "せいさん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "production",
+          "manufacture"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1386460",
+    "kanji": [
+      "説明"
+    ],
+    "kana": [
+      "せつめい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "explanation",
+          "exposition",
+          "description",
+          "account",
+          "caption",
+          "legend"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1374300",
+    "kanji": [
+      "世話"
+    ],
+    "kana": [
+      "せわ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "care",
+          "looking after",
+          "help",
+          "assistance",
+          "aid"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "trouble",
+          "bother"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "good offices",
+          "recommendation",
+          "introduction"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "everyday life",
+          "everyday affairs",
+          "everyday language"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "sewamono (Edo-period drama about contemporary life)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1390360",
+    "kanji": [
+      "戦争"
+    ],
+    "kana": [
+      "せんそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "war"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "fighting",
+          "fierce competition"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1401210",
+    "kanji": [
+      "相談"
+    ],
+    "kana": [
+      "そうだん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "consultation",
+          "discussion",
+          "discussing",
+          "asking (someone) for advice"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1160570",
+    "kanji": [
+      "育てる"
+    ],
+    "kana": [
+      "そだてる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to raise",
+          "to rear",
+          "to bring up"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to train",
+          "to teach",
+          "to educate"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to promote the growth of",
+          "to nurture",
+          "to foster",
+          "to develop"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1405890",
+    "kanji": [
+      "卒業"
+    ],
+    "kana": [
+      "そつぎょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "graduation",
+          "completion (of a course)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "moving on (from)",
+          "outgrowing (something)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "leaving (a group, company, etc.)",
+          "quitting"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1411300",
+    "kanji": [
+      "退院"
+    ],
+    "kana": [
+      "たいいん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "leaving hospital",
+          "discharge from hospital"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1445790",
+    "kanji": [
+      "倒れる"
+    ],
+    "kana": [
+      "たおれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to fall (over, down)",
+          "to collapse",
+          "to take a fall",
+          "to topple"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be destroyed (in a collapse)",
+          "to collapse",
+          "to cave in",
+          "to crumble",
+          "to give away"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be confined to bed (with an illness)",
+          "to come down with",
+          "to break down (e.g. from overwork)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to die",
+          "to be killed"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go bankrupt (of a company, bank, etc.)",
+          "to fail",
+          "to collapse",
+          "to go under"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be defeated (in a game)",
+          "to lose"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fall (of a government, dictator, etc.)",
+          "to be overthrown"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1404700",
+    "kanji": [
+      "足す"
+    ],
+    "kana": [
+      "たす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to add (numbers)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to add (something)",
+          "to top up (with something)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to take care of (e.g. one's business)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1518070",
+    "kanji": [
+      "訪ねる"
+    ],
+    "kana": [
+      "たずねる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to visit",
+          "to call on",
+          "to pay a visit to"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1369940",
+    "kanji": [
+      "尋ねる",
+      "訊ねる"
+    ],
+    "kana": [
+      "たずねる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to ask",
+          "to enquire",
+          "to inquire"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to search",
+          "to look for",
+          "to look into",
+          "to investigate"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1551530",
+    "kanji": [
+      "立てる"
+    ],
+    "kana": [
+      "たてる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to stand up",
+          "to put up",
+          "to set up",
+          "to erect",
+          "to raise"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to thrust into",
+          "to bury into",
+          "to dig into"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make (a noise)",
+          "to start (a rumour)",
+          "to raise (a cloud of dust, etc.)",
+          "to cause"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make",
+          "to establish",
+          "to set up",
+          "to develop",
+          "to formulate"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to put up (a political candidate)",
+          "to make (one's leader)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to treat with respect",
+          "to give (someone) their due",
+          "to make (someone) look good",
+          "to avoid embarrassing (someone)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to sharpen",
+          "to make clear"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to shut",
+          "to close"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make tea (matcha)",
+          "to perform the tea ceremony"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to divide by"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do ... vigorously"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "v1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1257330",
+    "kanji": [
+      "建てる"
+    ],
+    "kana": [
+      "たてる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to build",
+          "to construct"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1207270",
+    "kanji": [
+      "楽しむ",
+      "愉しむ",
+      "楽む"
+    ],
+    "kana": [
+      "たのしむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to enjoy",
+          "to take pleasure in",
+          "to have a good time",
+          "to have fun"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to look forward to"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1404740",
+    "kanji": [
+      "足りる"
+    ],
+    "kana": [
+      "たりる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be sufficient",
+          "to be enough"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be worth doing",
+          "to be worthy of",
+          "to deserve"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to do (the job)",
+          "to serve",
+          "to answer"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1419860",
+    "kanji": [
+      "暖房",
+      "煖房"
+    ],
+    "kana": [
+      "だんぼう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "(indoor) heating"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1426530",
+    "kanji": [
+      "注意"
+    ],
+    "kana": [
+      "ちゅうい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "attention",
+          "notice",
+          "heed"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "care",
+          "caution",
+          "precaution",
+          "looking out (for)",
+          "watching out (for)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "advice",
+          "warning",
+          "caution",
+          "reminder"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "admonishment",
+          "reprimand",
+          "telling-off"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1426590",
+    "kanji": [
+      "注射"
+    ],
+    "kana": [
+      "ちゅうしゃ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "injection",
+          "jab",
+          "shot"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1597780",
+    "kanji": [
+      "捕まえる",
+      "掴まえる",
+      "捉まえる"
+    ],
+    "kana": [
+      "つかまえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to catch",
+          "to capture",
+          "to arrest",
+          "to seize",
+          "to restrain"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to grab",
+          "to clutch",
+          "to grasp",
+          "to seize",
+          "to hold on to"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to catch hold of (someone)",
+          "to stop (e.g. a stranger in the street)",
+          "to hail (a taxi, waiter, etc.)",
+          "to hold (someone) back",
+          "to detain"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "towards (someone)",
+          "at (someone)",
+          "in (someone's) face"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1495740",
+    "kanji": [
+      "付く",
+      "附く"
+    ],
+    "kana": [
+      "つく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be attached",
+          "to be connected with",
+          "to adhere",
+          "to stick",
+          "to cling"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to remain imprinted",
+          "to scar",
+          "to stain",
+          "to dye"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to bear (fruit, interest, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be acquired (of a habit, ability, etc.)",
+          "to increase (of strength, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to take root"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to accompany",
+          "to attend",
+          "to follow",
+          "to study with"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to side with",
+          "to belong to"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to possess",
+          "to haunt"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be lit",
+          "to catch fire",
+          "to ignite",
+          "to be turned on (of a light, appliance, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be settled",
+          "to be resolved",
+          "to be decided"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be given (of a name, price, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be sensed",
+          "to be perceived"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be lucky"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to become (a state, condition, etc.)"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "v5k"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1433680",
+    "kanji": [
+      "漬ける",
+      "浸ける"
+    ],
+    "kana": [
+      "つける"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to soak (in)",
+          "to steep",
+          "to dip",
+          "to dunk"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to pickle",
+          "to preserve (in salt, vinegar, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1444980",
+    "kanji": [
+      "都合"
+    ],
+    "kana": [
+      "つごう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "circumstances",
+          "condition",
+          "convenience"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "arranging",
+          "managing"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "lending money",
+          "raising money"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "in all",
+          "in total",
+          "all told"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1441870",
+    "kanji": [
+      "伝える"
+    ],
+    "kana": [
+      "つたえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to convey",
+          "to report",
+          "to transmit",
+          "to communicate",
+          "to tell",
+          "to impart",
+          "to propagate",
+          "to teach",
+          "to bequeath"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1405790",
+    "kanji": [
+      "続く"
+    ],
+    "kana": [
+      "つづく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to continue",
+          "to last",
+          "to go on"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to continue (without a break)",
+          "to be unbroken"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to occur again and again"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to lead to",
+          "to connect to",
+          "to adjoin"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come after",
+          "to follow",
+          "to succeed",
+          "to rank next to"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to hold out",
+          "to keep",
+          "to last"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1405800",
+    "kanji": [
+      "続ける"
+    ],
+    "kana": [
+      "つづける"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to continue",
+          "to keep up",
+          "to keep on"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt",
+          "aux-v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1584060",
+    "kanji": [
+      "包む",
+      "裹む"
+    ],
+    "kana": [
+      "つつむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to wrap up",
+          "to pack",
+          "to bundle",
+          "to do up"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to cover",
+          "to envelop",
+          "to shroud",
+          "to engulf"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to conceal (a feeling)",
+          "to hide"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to give (money in an envelope; as a wedding gift, funeral offering, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1434120",
+    "kanji": [
+      "釣る"
+    ],
+    "kana": [
+      "つる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to fish",
+          "to angle",
+          "to catch"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to lure in",
+          "to tempt",
+          "to attract",
+          "to entice",
+          "to allure"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1559290",
+    "kanji": [
+      "連れる"
+    ],
+    "kana": [
+      "つれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to take (someone) with one",
+          "to bring along",
+          "to go with",
+          "to be accompanied by"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1328190",
+    "kanji": [
+      "手伝う",
+      "手つだう"
+    ],
+    "kana": [
+      "てつだう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to help",
+          "to assist",
+          "to aid"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to contribute to",
+          "to be a factor in"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1433030",
+    "kanji": [
+      "通る",
+      "徹る",
+      "透る"
+    ],
+    "kana": [
+      "とおる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to go by",
+          "to go past",
+          "to go along",
+          "to travel along",
+          "to pass through",
+          "to use (a road)",
+          "to take (a route)",
+          "to go via",
+          "to go by way of"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to run (between; of a rail service, bus route, etc.)",
+          "to operate (between)",
+          "to connect"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go indoors",
+          "to go into a room",
+          "to be admitted",
+          "to be shown in",
+          "to be ushered in",
+          "to come in"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to penetrate",
+          "to pierce",
+          "to skewer",
+          "to go through",
+          "to come through"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to permeate",
+          "to soak into",
+          "to spread throughout"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to carry (e.g. of a voice)",
+          "to reach far"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be passed on (e.g. of a customer's order to the kitchen)",
+          "to be relayed",
+          "to be conveyed"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to pass (a test, a bill in the House, etc.)",
+          "to be approved",
+          "to be accepted"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go by (a name)",
+          "to be known as",
+          "to be accepted as",
+          "to have a reputation for"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be coherent",
+          "to be logical",
+          "to be reasonable",
+          "to be comprehensible",
+          "to be understandable",
+          "to make sense"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to get across (e.g. of one's point)",
+          "to be understood"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to pass for",
+          "to come across as",
+          "to seem like"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be straight (e.g. wood grain)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be well-informed",
+          "to be wise"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to do ... completely",
+          "to do ... thoroughly"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "v5r"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1457210",
+    "kanji": [
+      "届ける",
+      "屆ける"
+    ],
+    "kana": [
+      "とどける"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to deliver",
+          "to forward",
+          "to send"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to report",
+          "to notify",
+          "to file notice (to the authorities)",
+          "to give notice",
+          "to register"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1474850",
+    "kanji": [
+      "泊まる",
+      "泊る"
+    ],
+    "kana": [
+      "とまる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to stay at (e.g. hotel)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be docked",
+          "to be berthed",
+          "to be moored"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1310670",
+    "kanji": [
+      "止める",
+      "留める",
+      "停める"
+    ],
+    "kana": [
+      "とめる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to stop",
+          "to turn off"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to park"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to prevent",
+          "to suppress (a cough)",
+          "to hold back (tears)",
+          "to hold (one's breath)",
+          "to relieve (pain)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to stop (someone from doing something)",
+          "to dissuade",
+          "to forbid",
+          "to prohibit"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to notice",
+          "to be aware of",
+          "to concentrate on",
+          "to pay attention to",
+          "to remember",
+          "to bear in mind"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to fix (in place)",
+          "to fasten",
+          "to tack",
+          "to pin",
+          "to nail",
+          "to button",
+          "to staple"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to detain",
+          "to keep in custody"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1326830",
+    "kanji": [
+      "取り替える",
+      "取り換える",
+      "取りかえる",
+      "取替える",
+      "取換える",
+      "取換る"
+    ],
+    "kana": [
+      "とりかえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to exchange",
+          "to swap",
+          "to barter"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to replace",
+          "to substitute"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1599340",
+    "kanji": [
+      "泥棒",
+      "泥坊"
+    ],
+    "kana": [
+      "どろぼう",
+      "ドロボー",
+      "どろぼー"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thief",
+          "burglar",
+          "robber"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "theft",
+          "burglary",
+          "robbery"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1599390",
+    "kanji": [
+      "直す"
+    ],
+    "kana": [
+      "なおす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to repair",
+          "to mend",
+          "to fix",
+          "to correct (a mistake, bad habit, etc.)",
+          "to put right",
+          "to restore",
+          "to straighten (e.g. a tie)",
+          "to tidy up (one's hair, make-up, etc.)",
+          "to revive (one's spirits)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to change",
+          "to alter",
+          "to convert",
+          "to translate"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to put back",
+          "to put away"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to cure",
+          "to heal"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to move up",
+          "to promote"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do over again",
+          "to redo"
+        ],
+        "partOfSpeech": [
+          "suf",
+          "v5s"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2846390",
+    "kanji": [
+      "直る"
+    ],
+    "kana": [
+      "なおる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to get mended",
+          "to be repaired",
+          "to be fixed"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to return to normal",
+          "to recover (e.g. one's temper)",
+          "to be restored",
+          "to improve",
+          "to rally",
+          "to come right"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be corrected",
+          "to get put right",
+          "to be rectified"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come right",
+          "to cure (itself)",
+          "to get cured"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to sit properly"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be promoted",
+          "to rise"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to have one's crimes forgiven"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1599400",
+    "kanji": [
+      "治る"
+    ],
+    "kana": [
+      "なおる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to get better",
+          "to get well",
+          "to recover (from an illness)",
+          "to be cured",
+          "to be restored",
+          "to heal"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1229840",
+    "kanji": [
+      "泣く",
+      "哭く"
+    ],
+    "kana": [
+      "なく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to cry",
+          "to weep",
+          "to sob",
+          "to howl"
+        ],
+        "partOfSpeech": [
+          "v5k"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1529550",
+    "kanji": [
+      "無くなる",
+      "失くなる"
+    ],
+    "kana": [
+      "なくなる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be lost (e.g. luggage)",
+          "to be missing"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be used up",
+          "to be run out",
+          "to be exhausted",
+          "to be consumed",
+          "to be reduced to zero",
+          "to not occur any more"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to disappear (e.g. pain)",
+          "to be lost (e.g. a dream, confidence)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1518540",
+    "kanji": [
+      "亡くなる"
+    ],
+    "kana": [
+      "なくなる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to die",
+          "to pass away"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1447000",
+    "kanji": [
+      "投げる"
+    ],
+    "kana": [
+      "なげる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to throw",
+          "to hurl",
+          "to fling",
+          "to toss",
+          "to cast"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to give up",
+          "to abandon",
+          "to throw away"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to cast (a glance, shadow, doubt, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1157090",
+    "kanji": [
+      "為さる",
+      "爲さる"
+    ],
+    "kana": [
+      "なさる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to do"
+        ],
+        "partOfSpeech": [
+          "v5aru",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1532910",
+    "kanji": [
+      "鳴る"
+    ],
+    "kana": [
+      "なる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to sound",
+          "to ring",
+          "to resound",
+          "to echo",
+          "to roar",
+          "to rumble"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1212670",
+    "kanji": [
+      "慣れる",
+      "馴れる"
+    ],
+    "kana": [
+      "なれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to get used to",
+          "to grow accustomed to",
+          "to become familiar with"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to become skilled in",
+          "to become experienced at"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to become tame",
+          "to become domesticated"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to get used to doing"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "aux-v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1450330",
+    "kanji": [
+      "逃げる",
+      "迯げる"
+    ],
+    "kana": [
+      "にげる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to run away",
+          "to flee",
+          "to get away (e.g. from danger)",
+          "to escape",
+          "to break out",
+          "to leave (e.g. one's spouse)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to avoid (a question, responsibility, etc.)",
+          "to evade",
+          "to dodge",
+          "to shirk",
+          "to back away"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to win without being overtaken",
+          "to hold off the other contenders (until the finish)",
+          "to keep the lead (and win)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to escape (of heat, a gas, etc.)",
+          "to leak out (e.g. of a scent)",
+          "to be lost (e.g. of flavor)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to fail to hold an ideal posture"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1465720",
+    "kanji": [
+      "入院"
+    ],
+    "kana": [
+      "にゅういん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hospitalization",
+          "hospitalisation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1465850",
+    "kanji": [
+      "入学"
+    ],
+    "kana": [
+      "にゅうがく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "admission (to a school or university)",
+          "entrance",
+          "enrolment",
+          "enrollment",
+          "matriculation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1314600",
+    "kanji": [
+      "似る"
+    ],
+    "kana": [
+      "にる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to resemble",
+          "to look like",
+          "to be like",
+          "to be alike",
+          "to be similar",
+          "to take after"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1448440",
+    "kanji": [
+      "盗む",
+      "偸む"
+    ],
+    "kana": [
+      "ぬすむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to steal"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to plagiarize",
+          "to steal (a technique, idea, etc.)",
+          "to watch and learn"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do stealthily"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do during scant time"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to steal a base"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1444270",
+    "kanji": [
+      "塗る"
+    ],
+    "kana": [
+      "ぬる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to paint",
+          "to plaster",
+          "to lacquer",
+          "to varnish",
+          "to spread",
+          "to smear",
+          "to put up (wallpaper)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1467620",
+    "kanji": [
+      "濡れる",
+      "濡る"
+    ],
+    "kana": [
+      "ぬれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to get wet"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1360320",
+    "kanji": [
+      "寝坊",
+      "寐坊"
+    ],
+    "kana": [
+      "ねぼう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "sleeping in late",
+          "oversleeping"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-na",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "late riser",
+          "sleepyhead"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1529390",
+    "kanji": [
+      "眠る",
+      "睡る"
+    ],
+    "kana": [
+      "ねむる",
+      "ねぶる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to sleep"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to die",
+          "to rest (in peace)",
+          "to lie (buried)",
+          "to sleep (in the grave)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to lie idle (e.g. of resources)",
+          "to lie unused",
+          "to lie untapped",
+          "to lie untouched"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to close one's eyes"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1304510",
+    "kanji": [
+      "残る",
+      "遺る"
+    ],
+    "kana": [
+      "のこる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to remain",
+          "to be left"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1600470",
+    "kanji": [
+      "乗り換える",
+      "乗りかえる",
+      "乗換える",
+      "乗り替える",
+      "乗替える"
+    ],
+    "kana": [
+      "のりかえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to transfer (trains)",
+          "to change (bus, train)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to change (to another ideology, party, company, etc.)",
+          "to switch (to a different system, method, etc.)",
+          "to move on to (e.g. a new love interest)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1472270",
+    "kanji": [
+      "拝見",
+      "拜見"
+    ],
+    "kana": [
+      "はいけん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "seeing",
+          "looking at"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1172660",
+    "kanji": [
+      "運ぶ"
+    ],
+    "kana": [
+      "はこぶ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to carry",
+          "to transport",
+          "to move",
+          "to convey"
+        ],
+        "partOfSpeech": [
+          "v5b",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to come",
+          "to go"
+        ],
+        "partOfSpeech": [
+          "v5b",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to use (a brush, chopsticks, etc.)",
+          "to move"
+        ],
+        "partOfSpeech": [
+          "v5b",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to carry out",
+          "to proceed with",
+          "to arrange"
+        ],
+        "partOfSpeech": [
+          "v5b",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to go (well, etc.)",
+          "to proceed",
+          "to progress"
+        ],
+        "partOfSpeech": [
+          "v5b",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1307550",
+    "kanji": [
+      "始める",
+      "創める"
+    ],
+    "kana": [
+      "はじめる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to start",
+          "to begin",
+          "to commence",
+          "to initiate",
+          "to originate"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to start up (a business, society, etc.)",
+          "to open (e.g. a store)",
+          "to establish"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to start ...",
+          "to begin to ..."
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1477170",
+    "kanji": [
+      "発音"
+    ],
+    "kana": [
+      "はつおん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pronunciation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "production of sound"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1501620",
+    "kanji": [
+      "払う",
+      "掃う"
+    ],
+    "kana": [
+      "はらう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to pay (e.g. money, bill)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to brush off",
+          "to wipe away",
+          "to clear away",
+          "to dust off",
+          "to cut off (e.g. branches)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to drive away (e.g. one's competitors)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to sell off (something unneeded)",
+          "to dispose of"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to pay (e.g. attention)",
+          "to show (e.g. respect, concern)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make (e.g. effort, sacrifice)",
+          "to expend",
+          "to exert"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to move out (of one's own place)",
+          "to vacate"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to sweep (e.g. one's legs)",
+          "to knock aside"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make a sweeping stroke (in Japanese calligraphy)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to reset (an abacus)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1480670",
+    "kanji": [
+      "反対"
+    ],
+    "kana": [
+      "はんたい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "opposition",
+          "resistance",
+          "antagonism",
+          "hostility",
+          "objection",
+          "dissent"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no",
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "reverse",
+          "opposite",
+          "inverse",
+          "contrary"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1556630",
+    "kanji": [
+      "冷える"
+    ],
+    "kana": [
+      "ひえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to grow cold (from room temperature, e.g. in refrigerator)",
+          "to get chilly",
+          "to cool down"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1272820",
+    "kanji": [
+      "光る"
+    ],
+    "kana": [
+      "ひかる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to shine",
+          "to glitter",
+          "to be bright"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1601660",
+    "kanji": [
+      "引き出す",
+      "引出す",
+      "引きだす"
+    ],
+    "kana": [
+      "ひきだす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to pull out",
+          "to take out",
+          "to draw out"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to lead out (e.g. a horse from a stable)",
+          "to summon (e.g. to court)",
+          "to bring (e.g. someone to the negotiating table)",
+          "to drag"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to withdraw (money)",
+          "to draw"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to bring out (talent, potential, beauty, flavour, etc.)",
+          "to extract (information, the truth, etc.)",
+          "to get (e.g. an answer out of someone)",
+          "to obtain (e.g. a result)",
+          "to elicit",
+          "to draw (a conclusion)",
+          "to derive (e.g. pleasure)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to get (money) out of someone",
+          "to coax out of someone",
+          "to get someone to pay",
+          "to make someone produce (funds)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1226360",
+    "kanji": [
+      "吃驚",
+      "喫驚"
+    ],
+    "kana": [
+      "びっくり",
+      "ビックリ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be surprised",
+          "to be amazed",
+          "to be frightened",
+          "to be astonished",
+          "to get startled",
+          "to jump"
+        ],
+        "partOfSpeech": [
+          "vs",
+          "vi",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "surprise (e.g. surprise party)"
+        ],
+        "partOfSpeech": [
+          "adj-f"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1169340",
+    "kanji": [
+      "引っ越す",
+      "引越す",
+      "引き越す",
+      "引っこす"
+    ],
+    "kana": [
+      "ひっこす",
+      "ひきこす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to move (house)",
+          "to change residence"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1202440",
+    "kanji": [
+      "開く"
+    ],
+    "kana": [
+      "ひらく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to open",
+          "to undo",
+          "to unseal",
+          "to unpack"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to bloom",
+          "to unfold",
+          "to spread out"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to open (for business, e.g. in the morning)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be wide (gap, etc.)",
+          "to widen"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to hold (meeting, party, etc.)",
+          "to give",
+          "to open"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to found (nation, dynasty, sect, etc.)",
+          "to open (a new business)",
+          "to set up",
+          "to establish",
+          "to start"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to open (ports, borders, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to open (an account)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to open up (new land, path, etc.)",
+          "to clear",
+          "to develop"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to open (a file, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to extract (root)",
+          "to reduce (equation)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to cut open (fish)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to change (kanji into hiragana)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to flare (e.g. skirt)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to slacken (into a poor posture)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1332570",
+    "kanji": [
+      "拾う"
+    ],
+    "kana": [
+      "ひろう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to pick up",
+          "to gather"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to find (and pick up; something someone has dropped)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to select",
+          "to choose",
+          "to pick out"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to get (unexpectedly)",
+          "to hit upon (luck, an opportunity, etc.)",
+          "to snatch (an unexpected victory)",
+          "to pull off"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to pick up (someone in a car)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to flag down (a taxi)",
+          "to hail"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to pick up (a signal, sound, interference, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to (just manage to) return (the ball)",
+          "to return (a difficult shot)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to take on (someone in adverse circumstances)",
+          "to employ",
+          "to give a job",
+          "to take in"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to walk",
+          "to go on foot"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1108180",
+    "kanji": [
+      "ＦＡＸ"
+    ],
+    "kana": [
+      "ファックス",
+      "ファクス"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fax",
+          "facsimile"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "fax machine"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1602440",
+    "kanji": [
+      "増える",
+      "殖える"
+    ],
+    "kana": [
+      "ふえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to increase",
+          "to multiply"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1500800",
+    "kanji": [
+      "復習"
+    ],
+    "kana": [
+      "ふくしゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "review (of learned material)",
+          "revision"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1408220",
+    "kanji": [
+      "太る",
+      "肥る"
+    ],
+    "kana": [
+      "ふとる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to put on weight",
+          "to gain weight",
+          "to grow fat",
+          "to get stout"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1450270",
+    "kanji": [
+      "踏む",
+      "履む",
+      "践む"
+    ],
+    "kana": [
+      "ふむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to step on",
+          "to tread on",
+          "to trample on"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to set foot on (e.g. foreign soil)",
+          "to stand on",
+          "to visit"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to experience",
+          "to undergo"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to follow (rules, principles, etc.)",
+          "to go through (e.g. formalities)",
+          "to complete"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to estimate",
+          "to guess",
+          "to judge",
+          "to value",
+          "to appraise"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to rhyme"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to succeed to (e.g. the throne)"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1282770",
+    "kanji": [
+      "降り出す",
+      "降りだす"
+    ],
+    "kana": [
+      "ふりだす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to begin to rain",
+          "to begin to snow"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1116840",
+    "kanji": [],
+    "kana": [
+      "プレゼント"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "present",
+          "gift"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1512220",
+    "kanji": [
+      "返事",
+      "返辞"
+    ],
+    "kana": [
+      "へんじ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "reply",
+          "answer",
+          "response"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1520120",
+    "kanji": [
+      "貿易"
+    ],
+    "kana": [
+      "ぼうえき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "(foreign) trade",
+          "(international) commerce",
+          "importing and exporting"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1516750",
+    "kanji": [
+      "放送"
+    ],
+    "kana": [
+      "ほうそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "broadcasting",
+          "broadcast",
+          "program",
+          "announcement"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1603550",
+    "kanji": [
+      "褒める",
+      "誉める",
+      "賞める",
+      "称める",
+      "讃める"
+    ],
+    "kana": [
+      "ほめる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to praise",
+          "to commend",
+          "to compliment",
+          "to speak well of",
+          "to speak highly of"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1523400",
+    "kanji": [
+      "翻訳",
+      "飜訳"
+    ],
+    "kana": [
+      "ほんやく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "translation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "deciphering",
+          "decoding"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "translation"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1302070",
+    "kanji": [
+      "参る",
+      "詣る"
+    ],
+    "kana": [
+      "まいる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to go",
+          "to come",
+          "to call"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be defeated",
+          "to collapse",
+          "to die"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be annoyed",
+          "to be nonplussed"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be madly in love"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to visit (shrine, grave)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1497980",
+    "kanji": [
+      "負ける",
+      "敗ける",
+      "敗北る"
+    ],
+    "kana": [
+      "まける"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to lose",
+          "to be defeated"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to succumb",
+          "to give in",
+          "to surrender",
+          "to yield"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be inferior to"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to break out in a rash due to (e.g. lacquer, shaving, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to reduce the price",
+          "to give a discount",
+          "to throw in (something extra) for free"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1215330",
+    "kanji": [
+      "間違える"
+    ],
+    "kana": [
+      "まちがえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to make a mistake (in)",
+          "to commit an error (e.g. in calculation)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to confuse",
+          "to mistake something for something else"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1215260",
+    "kanji": [
+      "間に合う",
+      "間にあう"
+    ],
+    "kana": [
+      "まにあう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be in time (for)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to serve (suit, meet) the purpose",
+          "to be good enough",
+          "to be enough",
+          "to manage",
+          "to make do"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1342050",
+    "kanji": [
+      "巡る",
+      "回る",
+      "廻る",
+      "繞る"
+    ],
+    "kana": [
+      "めぐる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to go around",
+          "to make a circle around"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to surround",
+          "to circle",
+          "to enclose"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come around (of a season, anniversary, turn, etc.)",
+          "to return",
+          "to repeat",
+          "to circulate (of blood, money, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to travel around",
+          "to make a tour of"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to concern (a matter)",
+          "to surround"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1259140",
+    "kanji": [
+      "見える",
+      "視える"
+    ],
+    "kana": [
+      "みえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be seen",
+          "to be visible",
+          "to be in sight"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to look",
+          "to seem",
+          "to appear"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1604550",
+    "kanji": [
+      "見つかる",
+      "見付かる"
+    ],
+    "kana": [
+      "みつかる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be found",
+          "to be discovered"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1604570",
+    "kanji": [
+      "見つける",
+      "見付ける",
+      "見附ける",
+      "見附る"
+    ],
+    "kana": [
+      "みつける",
+      "みっける"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to discover",
+          "to find (e.g. an error in a book)",
+          "to come across",
+          "to detect",
+          "to spot"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to locate",
+          "to find (e.g. something missing)",
+          "to find fault"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be used to seeing",
+          "to be familiar with"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1604800",
+    "kanji": [
+      "向かう",
+      "向う",
+      "対う"
+    ],
+    "kana": [
+      "むかう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to face"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to go towards",
+          "to head towards"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1253190",
+    "kanji": [
+      "迎える",
+      "邀える"
+    ],
+    "kana": [
+      "むかえる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to go out to meet",
+          "to receive",
+          "to welcome",
+          "to greet",
+          "to salute",
+          "to hail"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to call for",
+          "to summon",
+          "to invite"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to accept (e.g. as a member of a group or family)",
+          "to take (e.g. a wife)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to reach (a certain time, a point in one's life, etc.)",
+          "to enter (a new phase, new era, etc.)",
+          "to approach (e.g. death)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1530970",
+    "kanji": [
+      "無理"
+    ],
+    "kana": [
+      "むり",
+      "ムリ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "unreasonable",
+          "unnatural",
+          "unjustifiable"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "impossible"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "forcible",
+          "forced",
+          "compulsory"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "excessive (work, etc.)",
+          "immoderate"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "to work too hard",
+          "to try too hard"
+        ],
+        "partOfSpeech": [
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "no way",
+          "not a chance",
+          "never",
+          "dream on"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "irrational"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1346370",
+    "kanji": [
+      "召し上がる",
+      "召しあがる",
+      "召上がる",
+      "召し上る"
+    ],
+    "kana": [
+      "めしあがる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to eat",
+          "to drink"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1362950",
+    "kanji": [
+      "申し上げる",
+      "申上げる",
+      "申しあげる"
+    ],
+    "kana": [
+      "もうしあげる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to say",
+          "to tell",
+          "to state",
+          "to express",
+          "to offer",
+          "to extend (greetings, congratulations, etc.)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "aux-v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1363090",
+    "kanji": [
+      "申す"
+    ],
+    "kana": [
+      "もうす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to say",
+          "to be called"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to do"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1535880",
+    "kanji": [
+      "戻る"
+    ],
+    "kana": [
+      "もどる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to turn back (e.g. half-way)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to return",
+          "to go back"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to recover (e.g. something lost)",
+          "to be returned"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to rebound",
+          "to spring back"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1535910",
+    "kanji": [
+      "貰う"
+    ],
+    "kana": [
+      "もらう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to receive",
+          "to take",
+          "to accept"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to get someone to do something"
+        ],
+        "partOfSpeech": [
+          "aux-v",
+          "v5u"
+        ]
+      },
+      {
+        "gloss": [
+          "to have in one's pocket (a fight, match)"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to contract (a disease)",
+          "to catch",
+          "to be affected"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1350600",
+    "kanji": [
+      "焼く",
+      "燬く",
+      "焚く"
+    ],
+    "kana": [
+      "やく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to burn"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to roast",
+          "to broil",
+          "to grill",
+          "to bake",
+          "to toast",
+          "to barbecue"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to heat",
+          "to heat up"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to make (charcoal, pottery, bricks, etc.)",
+          "to bake",
+          "to fire",
+          "to burn"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to tan (i.e. suntan)",
+          "to burn"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to print (a photo)",
+          "to burn (an optical disc)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to be jealous of",
+          "to be envious of",
+          "to envy"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1538130",
+    "kanji": [
+      "約束"
+    ],
+    "kana": [
+      "やくそく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "promise",
+          "agreement",
+          "arrangement",
+          "one's word",
+          "contract",
+          "pact"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "appointment",
+          "engagement",
+          "date"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "convention",
+          "rule"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "destiny",
+          "fate"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1537980",
+    "kanji": [
+      "役に立つ",
+      "役にたつ",
+      "やくに立つ"
+    ],
+    "kana": [
+      "やくにたつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be helpful",
+          "to be useful"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "v5t"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1350610",
+    "kanji": [
+      "焼ける",
+      "灼ける",
+      "妬ける",
+      "嫉ける"
+    ],
+    "kana": [
+      "やける"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to burn",
+          "to burn down",
+          "to go down in flames"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be roasted",
+          "to be thoroughly cooked"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be sunburnt",
+          "to fade (in the sun)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to glow red (i.e. of the sky at sunset)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to become hot (from the sun)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be jealous",
+          "to be envious"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1605510",
+    "kanji": [
+      "痩せる",
+      "痩る",
+      "瘠せる",
+      "瘠る",
+      "瘦せる"
+    ],
+    "kana": [
+      "やせる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to become thin",
+          "to lose weight",
+          "to reduce (one's) weight",
+          "to slim"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be barren",
+          "to be infertile",
+          "to be sterile"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1310640",
+    "kanji": [
+      "止む",
+      "已む",
+      "罷む",
+      "熄む",
+      "歇む"
+    ],
+    "kana": [
+      "やむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to cease",
+          "to stop",
+          "to be over"
+        ],
+        "partOfSpeech": [
+          "v5m",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1310680",
+    "kanji": [
+      "止める",
+      "已める",
+      "廃める"
+    ],
+    "kana": [
+      "やめる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to stop (an activity)",
+          "to cease",
+          "to discontinue",
+          "to end",
+          "to quit"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to cancel",
+          "to abandon",
+          "to give up",
+          "to abolish",
+          "to abstain",
+          "to refrain"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1538870",
+    "kanji": [
+      "輸入"
+    ],
+    "kana": [
+      "ゆにゅう",
+      "しゅにゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "import",
+          "importation",
+          "introduction"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "afferent"
+        ],
+        "partOfSpeech": [
+          "adj-f"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1545710",
+    "kanji": [
+      "揺れる"
+    ],
+    "kana": [
+      "ゆれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to shake",
+          "to sway",
+          "to rock",
+          "to swing",
+          "to tremble",
+          "to jolt",
+          "to pitch",
+          "to roll",
+          "to flicker"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to become unstable",
+          "to become unsettled",
+          "to be shaken",
+          "to waver"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1546220",
+    "kanji": [
+      "用意"
+    ],
+    "kana": [
+      "ようい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "preparation",
+          "arrangements",
+          "provision",
+          "getting ready",
+          "laying out (e.g. a meal)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1179005",
+    "kanji": [
+      "汚れる"
+    ],
+    "kana": [
+      "よごれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to get dirty",
+          "to become dirty"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to become sullied",
+          "to become corrupted",
+          "to lose one's chastity"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1543070",
+    "kanji": [
+      "予習"
+    ],
+    "kana": [
+      "よしゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "preparation for a lesson"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1543240",
+    "kanji": [
+      "予定"
+    ],
+    "kana": [
+      "よてい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "plans",
+          "arrangement",
+          "schedule",
+          "program",
+          "programme",
+          "expectation",
+          "estimate"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1543750",
+    "kanji": [
+      "予約"
+    ],
+    "kana": [
+      "よやく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "reservation",
+          "appointment",
+          "booking",
+          "advance order"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "contract",
+          "subscription",
+          "pledge"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "programming (e.g. a device)",
+          "setting (e.g. a timer)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1219680",
+    "kanji": [
+      "寄る",
+      "倚る",
+      "凭る"
+    ],
+    "kana": [
+      "よる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to approach",
+          "to draw near",
+          "to come near",
+          "to be close to"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to gather (in one place)",
+          "to come together",
+          "to meet"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to stop by (while on one's way to another place)",
+          "to drop by",
+          "to make a short visit"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to grow old",
+          "to grow high (number, etc.)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to grow (wrinkly)"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to lean against",
+          "to recline on"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to push one's opponent while holding their belt"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to decide on a price and come to a deal"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be swayed by (a person)",
+          "to yield to"
+        ],
+        "partOfSpeech": [
+          "v5r",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1218760",
+    "kanji": [
+      "喜ぶ",
+      "悦ぶ",
+      "歓ぶ",
+      "慶ぶ",
+      "欣ぶ"
+    ],
+    "kana": [
+      "よろこぶ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to be delighted",
+          "to be glad",
+          "to be pleased"
+        ],
+        "partOfSpeech": [
+          "v5b"
+        ]
+      },
+      {
+        "gloss": [
+          "to congratulate"
+        ],
+        "partOfSpeech": [
+          "v5b"
+        ]
+      },
+      {
+        "gloss": [
+          "to gratefully accept"
+        ],
+        "partOfSpeech": [
+          "v5b"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1549660",
+    "kanji": [
+      "利用"
+    ],
+    "kana": [
+      "りよう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "use",
+          "utilization",
+          "utilisation",
+          "application"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1557290",
+    "kanji": [
+      "冷房"
+    ],
+    "kana": [
+      "れいぼう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "air conditioning",
+          "air cooling"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1145990",
+    "kanji": [],
+    "kana": [
+      "レポート",
+      "リポート"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "report",
+          "paper"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "reportage"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1559900",
+    "kanji": [
+      "連絡",
+      "聯絡",
+      "連らく"
+    ],
+    "kana": [
+      "れんらく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "contacting",
+          "(making) contact",
+          "getting in touch",
+          "communication",
+          "correspondence",
+          "call",
+          "message"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "connection (with a train, bus, etc.)",
+          "joining (a railway line, etc.)",
+          "meeting"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "connection (between matters, incidents, etc.)",
+          "relation",
+          "link"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1501660",
+    "kanji": [
+      "沸かす",
+      "沸す"
+    ],
+    "kana": [
+      "わかす"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to boil",
+          "to heat (a liquid)",
+          "to prepare (a bath, hot drink)"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "to excite",
+          "to rouse",
+          "to stir"
+        ],
+        "partOfSpeech": [
+          "v5s",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1606590",
+    "kanji": [
+      "別れる"
+    ],
+    "kana": [
+      "わかれる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to part (usu. of people)",
+          "to part from",
+          "to part with",
+          "to be apart from"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to separate (of a couple)",
+          "to break up",
+          "to divorce"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to lose (e.g. one's mother)",
+          "to be bereaved"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1606680",
+    "kanji": [
+      "沸く"
+    ],
+    "kana": [
+      "わく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to grow hot (e.g. water)",
+          "to boil"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to get excited (at)",
+          "to erupt (in applause, cheering, etc.)",
+          "to be in a ferment",
+          "to take place energetically"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to ferment"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to melt (of metal)"
+        ],
+        "partOfSpeech": [
+          "v5k",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1351360",
+    "kanji": [
+      "笑う",
+      "嗤う",
+      "咲う",
+      "哂う"
+    ],
+    "kana": [
+      "わらう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to laugh"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to smile"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to sneer",
+          "to ridicule"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be dumbfounded",
+          "to be flabbergasted"
+        ],
+        "partOfSpeech": [
+          "v5u",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1208020",
+    "kanji": [
+      "割れる",
+      "破れる"
+    ],
+    "kana": [
+      "われる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to break",
+          "to be smashed"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to split",
+          "to crack",
+          "to fissure",
+          "to be torn"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be divided (opinion, vote, etc.)",
+          "to split (e.g. of a party)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to come to light",
+          "to become clear",
+          "to be identified",
+          "to be revealed"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to become distorted (of sound)",
+          "to clip"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to be divisible (without a remainder)"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "to drop below a minimum"
+        ],
+        "partOfSpeech": [
+          "v1",
+          "vi"
+        ]
+      }
+    ]
+  }
+]
