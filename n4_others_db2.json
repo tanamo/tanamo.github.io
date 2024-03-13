@@ -1,0 +1,259 @@
+[
+  {
+    "kanji": [
+      "億"
+    ],
+    "kana": [
+      "おく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hundred million",
+          "100,000,000",
+          "10^8"
+        ],
+        "partOfSpeech": [
+          "num"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "君"
+    ],
+    "kana": [
+      "くん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "Mr",
+          "master",
+          "boy"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "Ms",
+          "miss"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "sir",
+          "madam"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "けれど",
+      "けれども"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "but",
+          "however",
+          "although"
+        ],
+        "partOfSpeech": [
+          "conj",
+          "prt"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "けど",
+      "けども"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "but",
+          "however",
+          "although"
+        ],
+        "partOfSpeech": [
+          "conj",
+          "prt"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "けんど"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "but",
+          "however",
+          "although"
+        ],
+        "partOfSpeech": [
+          "conj",
+          "prt"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "応え"
+    ],
+    "kana": [
+      "ごたえ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "response",
+          "feeling"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "worth ...ing",
+          "worthwhile ...ing",
+          "satisfying to ..."
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "此れから",
+      "是から",
+      "此から"
+    ],
+    "kana": [
+      "これから"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "from now on",
+          "after this",
+          "in the future",
+          "in future"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "from here",
+          "from this point"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "其れで"
+    ],
+    "kana": [
+      "それで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "so",
+          "therefore",
+          "and",
+          "(and) then"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "其れに"
+    ],
+    "kana": [
+      "それに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "besides",
+          "in addition",
+          "also",
+          "moreover"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "又は"
+    ],
+    "kana": [
+      "または"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "or",
+          "either ... or ..."
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "港"
+    ],
+    "kana": [
+      "こう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "harbour"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  }
+]

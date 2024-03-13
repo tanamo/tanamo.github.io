@@ -1,0 +1,11448 @@
+[
+  {
+    "kanji": [
+      "相変わらず",
+      "相変らず",
+      "あい変わらず",
+      "あい変らず"
+    ],
+    "kana": [
+      "あいかわらず"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "as usual",
+          "as always",
+          "as before",
+          "as ever",
+          "still"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "曖昧",
+      "あい昧"
+    ],
+    "kana": [
+      "あいまい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "vague",
+          "ambiguous",
+          "unclear"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "shady",
+          "disreputable"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "fuzzy"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "青白い",
+      "蒼白い",
+      "青じろい"
+    ],
+    "kana": [
+      "あおじろい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pale",
+          "pallid"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "bluish-white"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "空き",
+      "明き"
+    ],
+    "kana": [
+      "あき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "space",
+          "room",
+          "gap",
+          "emptiness"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "vacancy",
+          "opening",
+          "empty seat"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "free time",
+          "time to spare"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "disuse",
+          "unused thing"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "飽くまで",
+      "飽く迄"
+    ],
+    "kana": [
+      "あくまで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to the end",
+          "to the bitter end",
+          "to the last",
+          "stubbornly",
+          "persistently",
+          "consistently",
+          "to the utmost"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "after all",
+          "it must be remembered",
+          "only",
+          "purely",
+          "simply"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "明け方",
+      "明方",
+      "明けがた"
+    ],
+    "kana": [
+      "あけがた"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dawn",
+          "daybreak"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "当たり前",
+      "当り前",
+      "あたり前",
+      "当りまえ"
+    ],
+    "kana": [
+      "あたりまえ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "natural",
+          "reasonable",
+          "obvious"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "usual",
+          "common",
+          "ordinary",
+          "commonplace",
+          "the norm"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "彼方此方"
+    ],
+    "kana": [
+      "あちこち",
+      "あちらこちら",
+      "あっちこっち",
+      "アチコチ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "here and there",
+          "various places",
+          "all around",
+          "all over",
+          "everywhere",
+          "throughout"
+        ],
+        "partOfSpeech": [
+          "pn",
+          "adv",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "muddled",
+          "confused",
+          "in the wrong order",
+          "back to front"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "厚かましい"
+    ],
+    "kana": [
+      "あつかましい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "impudent",
+          "shameless",
+          "brazen",
+          "cheeky",
+          "presumptuous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "編み物",
+      "編物"
+    ],
+    "kana": [
+      "あみもの"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "knitting",
+          "knitted material",
+          "crochet"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "危うい"
+    ],
+    "kana": [
+      "あやうい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dangerous",
+          "in danger",
+          "facing imminent danger"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "precarious (situation)",
+          "perilous (state, balance, etc.)",
+          "in doubt",
+          "in jeopardy",
+          "uncertain",
+          "insecure",
+          "concerning",
+          "worrying"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "怪しい"
+    ],
+    "kana": [
+      "あやしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "suspicious",
+          "dubious",
+          "questionable",
+          "dodgy",
+          "shady",
+          "fishy"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "doubtful",
+          "unsure",
+          "uncertain",
+          "unlikely",
+          "implausible"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "untrustworthy",
+          "unreliable",
+          "clumsy",
+          "awkward",
+          "shaky",
+          "poor"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "strange",
+          "weird",
+          "eerie",
+          "spooky",
+          "uncanny"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "ominous (e.g. weather)",
+          "threatening",
+          "dangerous (e.g. financial situation)",
+          "uncertain"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "suspicious (of a potential amorous relation)"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "mysterious",
+          "bewitching",
+          "alluring",
+          "enticing",
+          "enchanting"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "荒い"
+    ],
+    "kana": [
+      "あらい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "rough",
+          "wild",
+          "violent",
+          "rude",
+          "coarse",
+          "harsh",
+          "fierce",
+          "heavy (e.g. breathing)"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "immoderate",
+          "extravagant",
+          "reckless"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "粗い"
+    ],
+    "kana": [
+      "あらい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "coarse",
+          "rough"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "改めて",
+      "新ためて"
+    ],
+    "kana": [
+      "あらためて"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "another time",
+          "again",
+          "over again",
+          "once again",
+          "anew"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "formally",
+          "especially",
+          "intentionally",
+          "deliberately"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "有難い",
+      "有り難い"
+    ],
+    "kana": [
+      "ありがたい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "grateful",
+          "thankful",
+          "welcome",
+          "appreciated",
+          "evoking gratitude"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "彼是",
+      "彼此"
+    ],
+    "kana": [
+      "あれこれ",
+      "かれこれ",
+      "ひし",
+      "アレコレ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "this and that",
+          "this or that",
+          "one thing or another",
+          "this way and that"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "pn"
+        ]
+      },
+      {
+        "gloss": [
+          "around",
+          "about",
+          "round about",
+          "roughly",
+          "nearly",
+          "almost"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "慌ただしい",
+      "慌しい",
+      "遽しい"
+    ],
+    "kana": [
+      "あわただしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "busy",
+          "hectic",
+          "hurried",
+          "rushed"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "rapid",
+          "quick",
+          "sudden"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "安易"
+    ],
+    "kana": [
+      "あんい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "easy",
+          "simple"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "easygoing",
+          "lighthearted",
+          "simplistic",
+          "irresponsible",
+          "careless",
+          "quick (to do)"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "案外"
+    ],
+    "kana": [
+      "あんがい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "unexpectedly",
+          "surprisingly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "unexpected",
+          "unanticipated",
+          "unforeseen",
+          "surprising"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "生き生き",
+      "活き活き"
+    ],
+    "kana": [
+      "いきいき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "in a lively way",
+          "vividly",
+          "freshly",
+          "animatedly",
+          "actively",
+          "energetically"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to",
+          "vs"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "行き成り",
+      "行成り",
+      "行き成",
+      "行成"
+    ],
+    "kana": [
+      "いきなり",
+      "ゆきなり"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "abruptly",
+          "suddenly",
+          "all of a sudden",
+          "without warning"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "幾分"
+    ],
+    "kana": [
+      "いくぶん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "somewhat",
+          "to some extent",
+          "to some degree"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "some",
+          "part",
+          "portion"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "以後",
+      "已後"
+    ],
+    "kana": [
+      "いご"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "after this",
+          "from now on",
+          "hereafter"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "thereafter",
+          "since (then)",
+          "after"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "以降",
+      "已降"
+    ],
+    "kana": [
+      "いこう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "on and after",
+          "from ... onward",
+          "since"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "イコール"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "equal",
+          "equivalent"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "equals sign",
+          "equality sign"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "equals (as in \"A equals B\")"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "勇ましい"
+    ],
+    "kana": [
+      "いさましい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "brave",
+          "valiant",
+          "gallant",
+          "courageous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "stirring",
+          "vigorous",
+          "rousing"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "意地悪"
+    ],
+    "kana": [
+      "いじわる"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "malicious",
+          "ill-tempered",
+          "unkind",
+          "mean",
+          "nasty"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一々",
+      "一一"
+    ],
+    "kana": [
+      "いちいち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "one-by-one",
+          "separately"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "every single",
+          "each and every",
+          "without omission",
+          "fully",
+          "in detail"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一応",
+      "一往"
+    ],
+    "kana": [
+      "いちおう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "more or less",
+          "though not quite satisfactorily",
+          "after a fashion",
+          "pretty much",
+          "roughly",
+          "so far as it goes",
+          "technically"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "tentatively",
+          "for the time being"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "just in case"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "once"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一段"
+    ],
+    "kana": [
+      "いちだん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "even more",
+          "still more",
+          "much more",
+          "further"
+        ],
+        "partOfSpeech": [
+          "adv-to",
+          "adv",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "one step",
+          "one rung",
+          "one level",
+          "one grade",
+          "one rank"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "one paragraph",
+          "one passage"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "ichidan (verb, verb conjugation)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一流",
+      "一旒"
+    ],
+    "kana": [
+      "いちりゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "first-class",
+          "first-rate",
+          "top-flight",
+          "top-ranking",
+          "leading",
+          "eminent",
+          "top"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "characteristic (of)",
+          "peculiar (to)",
+          "unique (to)"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "school (e.g. of flower arrangement)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "one flag",
+          "one banner",
+          "one streamer"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一昨日"
+    ],
+    "kana": [
+      "おととい",
+      "おとつい",
+      "いっさくじつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "day before yesterday"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一昨年",
+      "おと年"
+    ],
+    "kana": [
+      "おととし",
+      "いっさくねん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "year before last"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一斉"
+    ],
+    "kana": [
+      "いっせい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "simultaneous",
+          "all at once"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一旦"
+    ],
+    "kana": [
+      "いったん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "once"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "for a short time",
+          "briefly",
+          "temporarily"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "one morning"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一定"
+    ],
+    "kana": [
+      "いってい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to fix",
+          "to settle",
+          "to standardize",
+          "to regularize"
+        ],
+        "partOfSpeech": [
+          "vs",
+          "vt",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "constant",
+          "definite",
+          "uniform",
+          "defined",
+          "certain",
+          "prescribed"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一定"
+    ],
+    "kana": [
+      "いちじょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "veritably",
+          "verily",
+          "to be sure",
+          "certainly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "certain",
+          "inevitable",
+          "definite"
+        ],
+        "partOfSpeech": [
+          "adj-nari",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "いつの間にか",
+      "何時の間にか"
+    ],
+    "kana": [
+      "いつのまにか"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "before one knows",
+          "before one becomes aware of",
+          "unnoticed",
+          "unawares"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "緯度"
+    ],
+    "kana": [
+      "いど"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "latitude (nav.)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "愈",
+      "愈々",
+      "弥々",
+      "愈愈",
+      "弥弥"
+    ],
+    "kana": [
+      "いよいよ",
+      "イヨイヨ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "more and more",
+          "all the more",
+          "increasingly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "at last",
+          "finally",
+          "beyond doubt"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "(at the) last moment",
+          "worst possible time"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "ウーマン",
+      "ウマン"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "woman"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "薄暗い",
+      "うす暗い"
+    ],
+    "kana": [
+      "うすぐらい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dim",
+          "gloomy"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "裏口"
+    ],
+    "kana": [
+      "うらぐち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "backdoor",
+          "rear entrance",
+          "rear exit"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "unauthorized",
+          "illicit",
+          "illegal"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "羨ましい",
+      "羨しい"
+    ],
+    "kana": [
+      "うらやましい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "envious",
+          "jealous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "enviable (position, etc.)"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "売り切れ",
+      "売切れ",
+      "売切"
+    ],
+    "kana": [
+      "うりきれ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "sold-out"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "偉い",
+      "豪い"
+    ],
+    "kana": [
+      "えらい",
+      "エライ",
+      "エラい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "great",
+          "excellent",
+          "admirable",
+          "remarkable",
+          "distinguished",
+          "important",
+          "celebrated",
+          "famous",
+          "eminent"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "very troublesome",
+          "awful",
+          "terrible"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "tiring",
+          "tough"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "very",
+          "extremely"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "園芸"
+    ],
+    "kana": [
+      "えんげい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "horticulture",
+          "gardening"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "演劇"
+    ],
+    "kana": [
+      "えんげき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "drama",
+          "theatre",
+          "theater",
+          "play"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "円周"
+    ],
+    "kana": [
+      "えんしゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "circumference"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "応用"
+    ],
+    "kana": [
+      "おうよう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "(practical) application",
+          "putting to practical use"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "applied (e.g. physics, linguistics, research)"
+        ],
+        "partOfSpeech": [
+          "adj-f"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "大雑把",
+      "大ざっぱ"
+    ],
+    "kana": [
+      "おおざっぱ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "rough (estimate, summary, etc.)",
+          "broad",
+          "general",
+          "sweeping",
+          "loose"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "careless (e.g. work)",
+          "sloppy",
+          "crude"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "大凡",
+      "大よそ",
+      "凡そ",
+      "凡"
+    ],
+    "kana": [
+      "おおよそ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "about",
+          "roughly",
+          "approximately"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "generally",
+          "on the whole",
+          "as a rule"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "completely",
+          "quite",
+          "entirely",
+          "altogether",
+          "totally",
+          "not at all (with neg. verb)"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "outline",
+          "gist"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "屋外"
+    ],
+    "kana": [
+      "おくがい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "outdoors",
+          "outside"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "お先に"
+    ],
+    "kana": [
+      "おさきに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "before",
+          "previously"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "ahead"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "pardon me for leaving (before you)"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "惜しい"
+    ],
+    "kana": [
+      "おしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "regrettable",
+          "disappointing",
+          "unfortunate"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "precious",
+          "dear",
+          "valuable"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "too good for",
+          "deserving better"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "almost (but not quite)",
+          "close (but no cigar)"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "お洒落",
+      "御洒落"
+    ],
+    "kana": [
+      "おしゃれ",
+      "オシャレ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "stylish",
+          "fashionable",
+          "trendy",
+          "chic",
+          "smartly dressed",
+          "careful about one's appearance"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "dressing (oneself) up",
+          "dressing smartly",
+          "dressing nicely",
+          "making oneself look attractive"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "fashionable dresser",
+          "smartly dressed person"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "大人しい",
+      "温和しい"
+    ],
+    "kana": [
+      "おとなしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "gentle",
+          "quiet",
+          "mild",
+          "meek",
+          "obedient",
+          "docile",
+          "well-behaved",
+          "tame"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "quiet (color, pattern, etc.)",
+          "sober"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "各々",
+      "各各",
+      "各"
+    ],
+    "kana": [
+      "おのおの"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "each"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "you (plural)"
+        ],
+        "partOfSpeech": [
+          "pn"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "お目出度い",
+      "お芽出度い",
+      "御目出度い"
+    ],
+    "kana": [
+      "おめでたい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "(matter) for congratulations",
+          "worthy of celebration",
+          "happy (occasion, ending, etc.)",
+          "joyous",
+          "auspicious"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "naive",
+          "too good-natured",
+          "gullible",
+          "foolish",
+          "simple"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "思いがけない",
+      "思い掛けない",
+      "思い掛け無い"
+    ],
+    "kana": [
+      "おもいがけない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "unexpected",
+          "contrary to expectations",
+          "by chance",
+          "casual"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "思いっきり",
+      "思いっ切り"
+    ],
+    "kana": [
+      "おもいっきり"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "to one's heart's content",
+          "as much as one wants",
+          "as hard as one can",
+          "with all one's strength",
+          "to the best of one's ability",
+          "to the utmost",
+          "with determination",
+          "hard",
+          "heavily"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "resolution",
+          "decisiveness",
+          "determination",
+          "resignation"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "重たい"
+    ],
+    "kana": [
+      "おもたい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "heavy",
+          "weighty"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "heavy (feeling, atmosphere, etc.)",
+          "serious",
+          "gloomy",
+          "depressing"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "改正"
+    ],
+    "kana": [
+      "かいせい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "revision",
+          "amendment",
+          "alteration"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "快晴",
+      "快霽"
+    ],
+    "kana": [
+      "かいせい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "clear weather",
+          "cloudless weather",
+          "good weather"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "解説"
+    ],
+    "kana": [
+      "かいせつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "explanation",
+          "commentary",
+          "exposition",
+          "elucidation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "外部"
+    ],
+    "kana": [
+      "がいぶ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "outside (e.g. of a building)",
+          "exterior"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "outside (of a group, company, etc.)",
+          "outside world"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "却って",
+      "反って"
+    ],
+    "kana": [
+      "かえって"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "on the contrary",
+          "rather",
+          "instead",
+          "all the more"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "書留",
+      "書き留め",
+      "書留め"
+    ],
+    "kana": [
+      "かきとめ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "registered mail",
+          "registered post",
+          "registration (of mail)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "(putting on) record",
+          "writing down",
+          "noting down",
+          "registry"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "架空",
+      "仮空"
+    ],
+    "kana": [
+      "かくう",
+      "がくう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fictitious",
+          "imaginary",
+          "fanciful",
+          "fabricated"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "aerial",
+          "overhead"
+        ],
+        "partOfSpeech": [
+          "adj-f"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "各自"
+    ],
+    "kana": [
+      "かくじ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "each (person)",
+          "everyone",
+          "individual",
+          "respective"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "各地"
+    ],
+    "kana": [
+      "かくち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "every place",
+          "various places"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "角度"
+    ],
+    "kana": [
+      "かくど"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "angle"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "学部"
+    ],
+    "kana": [
+      "がくぶ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "department of a university"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "undergraduate (course, program, etc.)"
+        ],
+        "partOfSpeech": [
+          "adj-f"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "格別",
+      "各別"
+    ],
+    "kana": [
+      "かくべつ",
+      "かくべち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "particular",
+          "special",
+          "exceptional",
+          "especial"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "particularly",
+          "especially",
+          "exceptionally"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "火山"
+    ],
+    "kana": [
+      "かざん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "volcano"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "過剰"
+    ],
+    "kana": [
+      "かじょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "excess",
+          "surplus",
+          "superabundance",
+          "overabundance"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "片道"
+    ],
+    "kana": [
+      "かたみち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "one-way (trip)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "one-way ticket"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "楽器"
+    ],
+    "kana": [
+      "がっき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "musical instrument"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "学級"
+    ],
+    "kana": [
+      "がっきゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "(school) class"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "痒い"
+    ],
+    "kana": [
+      "かゆい",
+      "かいい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "itchy"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "空っぽ"
+    ],
+    "kana": [
+      "からっぽ",
+      "カラッポ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "empty",
+          "vacant",
+          "hollow"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "間接"
+    ],
+    "kana": [
+      "かんせつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "indirection",
+          "indirectness"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "乾燥"
+    ],
+    "kana": [
+      "かんそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dryness",
+          "aridity",
+          "drying (e.g. clothes)",
+          "dehydration",
+          "desiccation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "insipidity"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "缶詰",
+      "缶詰め",
+      "罐詰め",
+      "罐詰"
+    ],
+    "kana": [
+      "かんづめ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "canned food",
+          "tinned food"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "confining someone (e.g. so they can concentrate on work)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "being stuck in a confined space"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "冠"
+    ],
+    "kana": [
+      "かんむり",
+      "かん",
+      "かむり",
+      "かんぶり"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "traditional cap worn by Shinto clergy and courtiers"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "crown",
+          "diadem",
+          "coronet"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "top kanji radical"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "first verse of a haikai, etc."
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "best",
+          "peerless",
+          "first"
+        ],
+        "partOfSpeech": [
+          "adj-t",
+          "adv-to"
+        ]
+      },
+      {
+        "gloss": [
+          "name",
+          "title",
+          "named sponsorship of a program, event, team, etc."
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "counter for titles"
+        ],
+        "partOfSpeech": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "記号"
+    ],
+    "kana": [
+      "きごう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "symbol",
+          "code",
+          "sign",
+          "notation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "基準",
+      "規準"
+    ],
+    "kana": [
+      "きじゅん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "standard",
+          "basis",
+          "criterion",
+          "norm",
+          "reference",
+          "datum"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "基礎"
+    ],
+    "kana": [
+      "きそ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "foundation",
+          "basis"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "休息",
+      "休足"
+    ],
+    "kana": [
+      "きゅうそく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "rest",
+          "relief",
+          "relaxation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "清い",
+      "浄い"
+    ],
+    "kana": [
+      "きよい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "clean",
+          "clear"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "pure",
+          "honest",
+          "clean",
+          "innocent",
+          "platonic",
+          "chaste"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "偶数"
+    ],
+    "kana": [
+      "ぐうすう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "even number"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "空想"
+    ],
+    "kana": [
+      "くうそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "daydream",
+          "fantasy",
+          "fancy",
+          "vision"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "下らない"
+    ],
+    "kana": [
+      "くだらない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "trivial",
+          "trifling",
+          "insignificant",
+          "not worth bothering with",
+          "worthless",
+          "useless",
+          "good-for-nothing"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "stupid",
+          "nonsensical",
+          "absurd",
+          "foolish",
+          "silly"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "口紅"
+    ],
+    "kana": [
+      "くちべに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "lipstick"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "諄い"
+    ],
+    "kana": [
+      "くどい",
+      "クドい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "repetitious",
+          "long-winded",
+          "tedious",
+          "wordy",
+          "verbose",
+          "insistent",
+          "importunate"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "heavy (taste)",
+          "(overly) rich",
+          "strong",
+          "cloying"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "gaudy (colour, design, etc.)",
+          "loud"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "悔しい",
+      "口惜しい",
+      "悔やしい"
+    ],
+    "kana": [
+      "くやしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "frustrated (over a failure, humiliation or injustice)",
+          "annoyed",
+          "chagrined",
+          "(bitterly) disappointed",
+          "bitter",
+          "vexed",
+          "frustrating",
+          "annoying",
+          "regrettable"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "口惜しい"
+    ],
+    "kana": [
+      "くちおしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "frustrated (over a failure, humiliation or injustice)",
+          "annoyed",
+          "chagrined",
+          "(bitterly) disappointed",
+          "bitter",
+          "vexed",
+          "frustrating",
+          "annoying",
+          "regrettable"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "呉れ呉れも",
+      "呉々も",
+      "呉呉も"
+    ],
+    "kana": [
+      "くれぐれも"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "sincerely",
+          "earnestly",
+          "wholeheartedly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "repeatedly",
+          "over and over",
+          "again and again"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "毛糸"
+    ],
+    "kana": [
+      "けいと"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "knitting wool",
+          "woolen yarn",
+          "woollen yarn"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "毛皮",
+      "毛革"
+    ],
+    "kana": [
+      "けがわ",
+      "もうひ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fur",
+          "skin",
+          "pelt"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "kanji \"fur\" radical"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "傑作"
+    ],
+    "kana": [
+      "けっさく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "masterpiece",
+          "masterwork",
+          "chef d'oeuvre",
+          "fine piece of work"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "(unintentionally) hilarious",
+          "absurd (e.g. blunder)",
+          "outrageous",
+          "wild"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "月末"
+    ],
+    "kana": [
+      "げつまつ",
+      "つきずえ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "end of the month"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "下品"
+    ],
+    "kana": [
+      "げひん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "vulgar",
+          "indecent",
+          "coarse",
+          "crude"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "煙い",
+      "烟い"
+    ],
+    "kana": [
+      "けむい",
+      "けぶい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "smoky"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "険しい",
+      "嶮しい"
+    ],
+    "kana": [
+      "けわしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "precipitous",
+          "rugged",
+          "inaccessible",
+          "impregnable",
+          "steep"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "grim",
+          "severe",
+          "stern"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "謙虚"
+    ],
+    "kana": [
+      "けんきょ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "modest",
+          "humble"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "原産"
+    ],
+    "kana": [
+      "げんさん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "place of origin",
+          "habitat"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "原始"
+    ],
+    "kana": [
+      "げんし"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "origin",
+          "beginning",
+          "genesis"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "primeval",
+          "primordial",
+          "primitive"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "厳重"
+    ],
+    "kana": [
+      "げんじゅう",
+      "げんじょう",
+      "げんちょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "strict",
+          "severe",
+          "stringent",
+          "rigorous",
+          "rigid",
+          "firm",
+          "strong",
+          "secure"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "謙遜",
+      "謙そん"
+    ],
+    "kana": [
+      "けんそん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "modesty",
+          "humility",
+          "being humble"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "現に"
+    ],
+    "kana": [
+      "げんに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "actually",
+          "really"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "恋しい"
+    ],
+    "kana": [
+      "こいしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "yearned for",
+          "longed for",
+          "missed"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "強引"
+    ],
+    "kana": [
+      "ごういん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "overbearing",
+          "coercive",
+          "pushy",
+          "forcible",
+          "high-handed"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "高級"
+    ],
+    "kana": [
+      "こうきゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "high-class",
+          "high-grade",
+          "high-quality",
+          "high-end",
+          "luxury"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "high-ranking",
+          "high-level",
+          "senior"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "公共"
+    ],
+    "kana": [
+      "こうきょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "public (facilities, service, etc.)",
+          "communal"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "工芸"
+    ],
+    "kana": [
+      "こうげい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "industrial arts",
+          "craft"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "孝行"
+    ],
+    "kana": [
+      "こうこう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "filial piety"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "showing devotion (to someone)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "公式"
+    ],
+    "kana": [
+      "こうしき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "official",
+          "formal"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "formula (e.g. mathematical)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "official (social media) account (of a company, organization, etc.)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "公衆"
+    ],
+    "kana": [
+      "こうしゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "the public",
+          "general public"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "公正"
+    ],
+    "kana": [
+      "こうせい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "justice",
+          "fairness",
+          "impartiality"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "高層"
+    ],
+    "kana": [
+      "こうそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "high-rise (building)",
+          "multistory",
+          "multistoried",
+          "tall"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "high (altitude)",
+          "upper (atmosphere, air current, etc.)"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "高度"
+    ],
+    "kana": [
+      "こうど"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "altitude",
+          "height",
+          "elevation"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "high-degree",
+          "high-grade",
+          "advanced",
+          "sophisticated",
+          "strong"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "高等"
+    ],
+    "kana": [
+      "こうとう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "high class",
+          "high grade"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "合同"
+    ],
+    "kana": [
+      "ごうどう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "combination",
+          "union",
+          "joining",
+          "incorporation",
+          "amalgamation",
+          "merger",
+          "fusion"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "combined",
+          "joint",
+          "united",
+          "shared"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "congruence"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "国立"
+    ],
+    "kana": [
+      "こくりつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "national",
+          "founded and run by the central government"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "ご苦労様",
+      "ご苦労さま",
+      "御苦労様",
+      "御苦労さま"
+    ],
+    "kana": [
+      "ごくろうさま"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thank you (for your hard work)",
+          "I appreciate your efforts"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "個体"
+    ],
+    "kana": [
+      "こたい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "individual",
+          "specimen"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "此間"
+    ],
+    "kana": [
+      "こないだ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "the other day",
+          "lately",
+          "recently"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "紺"
+    ],
+    "kana": [
+      "こん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "navy blue",
+          "deep blue"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "再三"
+    ],
+    "kana": [
+      "さいさん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "again and again",
+          "repeatedly"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "祭日"
+    ],
+    "kana": [
+      "さいじつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "national holiday",
+          "festival day"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "サイレン"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "siren"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "逆さ",
+      "倒さ"
+    ],
+    "kana": [
+      "さかさ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "inverted",
+          "upside down",
+          "reversed",
+          "back to front"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "逆さま",
+      "逆様",
+      "倒"
+    ],
+    "kana": [
+      "さかさま"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "inverted",
+          "upside down",
+          "reversed",
+          "back to front",
+          "wrong way round"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一昨昨日",
+      "一昨々日"
+    ],
+    "kana": [
+      "いっさくさくじつ",
+      "さきおとつい",
+      "さきおととい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "two days before yesterday",
+          "three days back (ago)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "先ほど",
+      "先程"
+    ],
+    "kana": [
+      "さきほど"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "a short while ago",
+          "a moment ago",
+          "just now",
+          "some time ago"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "流石",
+      "遉",
+      "有繋"
+    ],
+    "kana": [
+      "さすが"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "as one would expect",
+          "just as you'd expect (from)",
+          "just like (someone)"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "still",
+          "all the same",
+          "after all"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "even ... (e.g. \"even a genius\")"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "早速"
+    ],
+    "kana": [
+      "さっそく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "at once",
+          "immediately",
+          "without delay",
+          "promptly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "再来月",
+      "さ来月"
+    ],
+    "kana": [
+      "さらいげつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "month after next"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "再来週",
+      "さ来週",
+      "再來週"
+    ],
+    "kana": [
+      "さらいしゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "week after next"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "再来年",
+      "さ来年"
+    ],
+    "kana": [
+      "さらいねん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "year after next"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "騒がしい"
+    ],
+    "kana": [
+      "さわがしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "noisy",
+          "boisterous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "turbulent (era, etc.)",
+          "troubled"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "爽やか"
+    ],
+    "kana": [
+      "さわやか"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fresh",
+          "refreshing",
+          "invigorating",
+          "pleasant",
+          "delightful"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "clear (voice)",
+          "fluent (speech)",
+          "eloquent"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "酸性"
+    ],
+    "kana": [
+      "さんせい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "acidity"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "acidic"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "明々後日",
+      "明明後日"
+    ],
+    "kana": [
+      "しあさって",
+      "みょうみょうごにち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "in three days' time",
+          "two days after tomorrow"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "自衛"
+    ],
+    "kana": [
+      "じえい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "self-defense",
+          "self-defence"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "塩辛い",
+      "鹹い"
+    ],
+    "kana": [
+      "しおからい",
+      "からい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "salty (taste)",
+          "briny"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "四角"
+    ],
+    "kana": [
+      "しかく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "quadrilateral",
+          "square"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "四角い"
+    ],
+    "kana": [
+      "しかくい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "square",
+          "rectangular"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "至急"
+    ],
+    "kana": [
+      "しきゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "urgent",
+          "pressing",
+          "immediate",
+          "prompt",
+          "express"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "urgently",
+          "promptly",
+          "at once",
+          "right away",
+          "without delay",
+          "as soon as possible"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "磁石"
+    ],
+    "kana": [
+      "じしゃく",
+      "じせき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "magnet"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "compass"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "始終"
+    ],
+    "kana": [
+      "しじゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "continuously",
+          "from beginning to end",
+          "from first to last"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "自然科学"
+    ],
+    "kana": [
+      "しぜんかがく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "natural science"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "執拗い"
+    ],
+    "kana": [
+      "しつこい",
+      "しつっこい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "insistent",
+          "obstinate",
+          "persistent",
+          "tenacious"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "too rich (taste, etc.)",
+          "fatty",
+          "heavy",
+          "greasy"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "実物"
+    ],
+    "kana": [
+      "じつぶつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "real thing",
+          "original",
+          "actual"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "縞"
+    ],
+    "kana": [
+      "しま"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "stripe",
+          "bar",
+          "streak"
+        ],
+        "partOfSpeech": [
+          "n",
+          "n-suf",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "(weaved) stripe pattern (of 2 or more different colors)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "地味"
+    ],
+    "kana": [
+      "じみ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "plain",
+          "simple",
+          "subdued",
+          "sober"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "reserved (behaviour, attitude, etc.)",
+          "modest",
+          "quiet",
+          "unobtrusive"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "quite",
+          "a (little) bit"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "沁み沁み",
+      "染み染み",
+      "沁沁"
+    ],
+    "kana": [
+      "しみじみ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "keenly",
+          "deeply",
+          "fully",
+          "heartily",
+          "seriously",
+          "earnestly"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to"
+        ]
+      },
+      {
+        "gloss": [
+          "calmly",
+          "quietly",
+          "softly"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to"
+        ]
+      },
+      {
+        "gloss": [
+          "fixedly (gazing, staring)",
+          "intently"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "洒落"
+    ],
+    "kana": [
+      "しゃれ",
+      "シャレ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "joke",
+          "pun",
+          "jest",
+          "witticism",
+          "wordplay"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "smartly dressed",
+          "stylish",
+          "fashion-conscious",
+          "refined"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "重量"
+    ],
+    "kana": [
+      "じゅうりょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "weight"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "heavyweight boxer"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "祝日"
+    ],
+    "kana": [
+      "しゅくじつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "national holiday",
+          "public holiday"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "主役"
+    ],
+    "kana": [
+      "しゅやく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "leading part",
+          "leading actor",
+          "leading actress"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "循環",
+      "循還"
+    ],
+    "kana": [
+      "じゅんかん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "circulation",
+          "rotation",
+          "cycle",
+          "loop"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "順々",
+      "順順"
+    ],
+    "kana": [
+      "じゅんじゅん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "in order",
+          "in turn"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "純情"
+    ],
+    "kana": [
+      "じゅんじょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pure heart",
+          "naivete",
+          "innocence"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "純粋"
+    ],
+    "kana": [
+      "じゅんすい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pure",
+          "true",
+          "genuine",
+          "unmixed"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "仕様がない",
+      "しようが無い",
+      "仕様が無い",
+      "しょうが無い"
+    ],
+    "kana": [
+      "しょうがない",
+      "しようがない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "there's no (other) way"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "cannot be helped",
+          "unavoidable",
+          "inevitable",
+          "(there's) nothing one can do",
+          "having no choice",
+          "it is what it is"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "it's no use (doing)",
+          "pointless",
+          "useless",
+          "no good",
+          "insufficient",
+          "not enough"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "hopeless (person)",
+          "annoying",
+          "troublesome",
+          "awful"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "cannot stand it",
+          "unbearable",
+          "cannot help (doing, feeling)",
+          "dying (to do)"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "上級"
+    ],
+    "kana": [
+      "じょうきゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "upper level",
+          "upper grade",
+          "high rank",
+          "advanced level",
+          "senior level",
+          "upper class"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "商業"
+    ],
+    "kana": [
+      "しょうぎょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "commerce",
+          "trade",
+          "business"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "消極的"
+    ],
+    "kana": [
+      "しょうきょくてき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "negative",
+          "passive",
+          "half-hearted",
+          "unmotivated"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "小数"
+    ],
+    "kana": [
+      "しょうすう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fraction (part of)",
+          "decimal fraction"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "正味"
+    ],
+    "kana": [
+      "しょうみ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "net (amount)",
+          "clear",
+          "full (e.g. working hours)"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "net weight"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "net price",
+          "cost price"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "actual content",
+          "useful part"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "正面"
+    ],
+    "kana": [
+      "しょうめん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "front",
+          "frontage",
+          "facade",
+          "main"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no",
+          "pref"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "初級"
+    ],
+    "kana": [
+      "しょきゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "elementary level",
+          "beginner level"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "初旬"
+    ],
+    "kana": [
+      "しょじゅん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "first 10 days of the month"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "白髪"
+    ],
+    "kana": [
+      "しらが",
+      "はくはつ",
+      "しろかみ",
+      "しらかみ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "white hair",
+          "grey hair",
+          "gray hair"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "私立"
+    ],
+    "kana": [
+      "しりつ",
+      "わたくしりつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "private (establishment)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "真空"
+    ],
+    "kana": [
+      "しんくう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "vacuum",
+          "hollow",
+          "empty"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "心身",
+      "身心",
+      "神身",
+      "身神"
+    ],
+    "kana": [
+      "しんしん",
+      "しんじん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "mind and body"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "人造"
+    ],
+    "kana": [
+      "じんぞう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "artificial",
+          "man-made",
+          "imitation",
+          "synthetic"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "深夜"
+    ],
+    "kana": [
+      "しんや"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "late at night"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "森林"
+    ],
+    "kana": [
+      "しんりん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "forest",
+          "woods"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "神話"
+    ],
+    "kana": [
+      "しんわ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "myth",
+          "legend"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "垂直"
+    ],
+    "kana": [
+      "すいちょく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "vertical"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "perpendicular"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "推定"
+    ],
+    "kana": [
+      "すいてい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "presumption",
+          "assumption"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "estimation"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "水平"
+    ],
+    "kana": [
+      "すいへい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "horizontal",
+          "level",
+          "even"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "図々しい",
+      "図図しい"
+    ],
+    "kana": [
+      "ずうずうしい",
+      "ずーずーしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "impudent",
+          "shameless",
+          "brazen",
+          "forward",
+          "audacious",
+          "cheeky"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "少なくとも",
+      "少くとも",
+      "尠くとも"
+    ],
+    "kana": [
+      "すくなくとも"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "at least"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "酸っぱい"
+    ],
+    "kana": [
+      "すっぱい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "sour",
+          "acid"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "素直"
+    ],
+    "kana": [
+      "すなお"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "obedient",
+          "meek",
+          "docile",
+          "unaffected"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "honest",
+          "frank",
+          "upfront (about one's feelings)"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "straight (e.g. hair)"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "without peculiarity",
+          "without mannerisms",
+          "standard",
+          "neat (e.g. handwriting)"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "図表"
+    ],
+    "kana": [
+      "ずひょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "chart",
+          "diagram",
+          "graph",
+          "figure"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "済まない"
+    ],
+    "kana": [
+      "すまない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "inexcusable",
+          "unjustifiable",
+          "unpardonable"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "sorry",
+          "remorseful",
+          "apologetic",
+          "conscience-stricken",
+          "contrite"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "excuse me",
+          "(I'm) sorry",
+          "thank you"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "狡い"
+    ],
+    "kana": [
+      "ずるい",
+      "こすい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "sly",
+          "cunning",
+          "sneaky",
+          "crafty",
+          "unfair",
+          "dishonest"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "miserly",
+          "mean",
+          "stingy"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "整数"
+    ],
+    "kana": [
+      "せいすう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "integer"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "政党"
+    ],
+    "kana": [
+      "せいとう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "political party"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "正方形"
+    ],
+    "kana": [
+      "せいほうけい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "square"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "赤道"
+    ],
+    "kana": [
+      "せきどう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "equator"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "折角",
+      "切角"
+    ],
+    "kana": [
+      "せっかく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "with trouble",
+          "at great pains"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "rare",
+          "valuable",
+          "precious",
+          "long-awaited"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "kind",
+          "generous"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "specially",
+          "especially",
+          "expressly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "是非とも",
+      "是非共"
+    ],
+    "kana": [
+      "ぜひとも"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "by all means",
+          "at all costs",
+          "absolutely"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "前後"
+    ],
+    "kana": [
+      "ぜんご"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "front and rear",
+          "front and back",
+          "before and behind",
+          "back and forth"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "before and after"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "around",
+          "about",
+          "approximately"
+        ],
+        "partOfSpeech": [
+          "n-suf",
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "order",
+          "context"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "consequences"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "just when",
+          "around the time of"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "inversion",
+          "reversion",
+          "getting out of order"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs"
+        ]
+      },
+      {
+        "gloss": [
+          "co-occurring",
+          "happening at the same time"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "全身"
+    ],
+    "kana": [
+      "ぜんしん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "whole (body)",
+          "full-length (e.g. portrait)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "systemic"
+        ],
+        "partOfSpeech": [
+          "adj-f"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "専制",
+      "擅制"
+    ],
+    "kana": [
+      "せんせい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "despotism",
+          "autocracy"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "先々月",
+      "先先月"
+    ],
+    "kana": [
+      "せんせんげつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "month before last"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "先々週",
+      "先先週"
+    ],
+    "kana": [
+      "せんせんしゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "week before last"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "相互"
+    ],
+    "kana": [
+      "そうご"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "mutual",
+          "reciprocal"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "騒々しい",
+      "騒騒しい"
+    ],
+    "kana": [
+      "そうぞうしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "noisy",
+          "loud",
+          "boisterous",
+          "clamorous",
+          "raucous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "turbulent",
+          "unsettled",
+          "restless"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "送別"
+    ],
+    "kana": [
+      "そうべつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "farewell",
+          "send-off"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "続々",
+      "続続"
+    ],
+    "kana": [
+      "ぞくぞく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "successively",
+          "one after another"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "率直",
+      "卒直"
+    ],
+    "kana": [
+      "そっちょく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "frank",
+          "candid",
+          "straightforward",
+          "openhearted",
+          "direct",
+          "outspoken"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "その上",
+      "其の上"
+    ],
+    "kana": [
+      "そのうえ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "in addition",
+          "furthermore"
+        ],
+        "partOfSpeech": [
+          "conj",
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "above (which)",
+          "on top of (which)"
+        ],
+        "partOfSpeech": [
+          "conj",
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "その頃"
+    ],
+    "kana": [
+      "そのころ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "at that time",
+          "in those days",
+          "at that moment",
+          "then"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "その他",
+      "その外",
+      "其の他",
+      "其の外"
+    ],
+    "kana": [
+      "そのほか",
+      "そのた"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "the rest",
+          "the others"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "in addition (to that)",
+          "besides that",
+          "other than that",
+          "and other ..."
+        ],
+        "partOfSpeech": [
+          "exp",
+          "n",
+          "adj-no",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "and so forth",
+          "and the like",
+          "and what have you",
+          "et cetera"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "第一",
+      "第１"
+    ],
+    "kana": [
+      "だいいち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "first",
+          "foremost",
+          "number one"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "most important"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "best",
+          "greatest",
+          "most"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "above all",
+          "besides",
+          "in any case",
+          "to begin with"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "太鼓"
+    ],
+    "kana": [
+      "たいこ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "drum"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "大して"
+    ],
+    "kana": [
+      "たいして"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "(not so) much",
+          "(not) very"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "大小"
+    ],
+    "kana": [
+      "だいしょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "size"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "large and small (sizes)",
+          "various sizes"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "daishō (matched pair of long and short swords)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "large and small drums"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "long months and short months"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "sic bo (Macao dice game)",
+          "tai sai",
+          "dai siu",
+          "big and small"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "大層",
+      "大そう"
+    ],
+    "kana": [
+      "たいそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "very",
+          "extremely",
+          "exceedingly",
+          "greatly",
+          "terribly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "extreme",
+          "excessive",
+          "great many",
+          "large number of"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "splendid",
+          "impressive",
+          "tremendous",
+          "immense"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "exaggerated"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "大分"
+    ],
+    "kana": [
+      "だいぶ",
+      "だいぶん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "considerably",
+          "greatly",
+          "a lot"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "対立"
+    ],
+    "kana": [
+      "たいりつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "confrontation",
+          "opposition",
+          "antagonism"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "絶えず"
+    ],
+    "kana": [
+      "たえず"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "constantly",
+          "always",
+          "continually",
+          "steadily"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "楕円",
+      "だ円",
+      "橢円"
+    ],
+    "kana": [
+      "だえん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "ellipse"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "忽ち"
+    ],
+    "kana": [
+      "たちまち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "in an instant",
+          "in a moment",
+          "immediately",
+          "right away",
+          "at once"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "suddenly",
+          "all of a sudden",
+          "all at once"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "妥当"
+    ],
+    "kana": [
+      "だとう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "valid",
+          "proper",
+          "right",
+          "appropriate",
+          "reasonable"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "頼もしい",
+      "頼母しい"
+    ],
+    "kana": [
+      "たのもしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "reliable",
+          "dependable",
+          "trustworthy",
+          "reassuring"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "hopeful",
+          "promising"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "ダブル"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "double"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "double bed",
+          "hotel room with a double bed"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "double-breasted"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "double-cuffed"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "double width (of cloth; usu. 1.42 meters)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "doubles (e.g. in tennis)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "biracial person (esp. half-Japanese)",
+          "person of mixed parentage"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "ダム"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dam"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "dumb"
+        ],
+        "partOfSpeech": [
+          "adj-f"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "だらし無い"
+    ],
+    "kana": [
+      "だらしない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "slovenly (appearance, work, etc.)",
+          "sloppy",
+          "untidy",
+          "undisciplined",
+          "careless",
+          "loose",
+          "slack"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "weak",
+          "feeble",
+          "weak-willed",
+          "cowardly",
+          "gutless"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "短期"
+    ],
+    "kana": [
+      "たんき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "short-term"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "淡水"
+    ],
+    "kana": [
+      "たんすい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fresh water (i.e. not salt water)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "単数"
+    ],
+    "kana": [
+      "たんすう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "single",
+          "one"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "singular (number)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "近々",
+      "近近",
+      "近ぢか"
+    ],
+    "kana": [
+      "ちかぢか",
+      "きんきん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "soon",
+          "before long",
+          "shortly",
+          "in the near future"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "close (by)",
+          "near",
+          "nearby"
+        ],
+        "partOfSpeech": [
+          "adv-to"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "力強い"
+    ],
+    "kana": [
+      "ちからづよい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "powerful",
+          "strong",
+          "forceful",
+          "vigorous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "reassuring",
+          "encouraging"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "茶色い"
+    ],
+    "kana": [
+      "ちゃいろい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "light brown",
+          "tawny"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "着々",
+      "着着"
+    ],
+    "kana": [
+      "ちゃくちゃく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "steadily"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "中間"
+    ],
+    "kana": [
+      "ちゅうかん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "middle",
+          "midway",
+          "halfway",
+          "centre",
+          "center"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "middle position",
+          "moderate position",
+          "neutral position",
+          "middle-of-the-road position"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "interim",
+          "intermediary",
+          "intermediate",
+          "midterm"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "中性"
+    ],
+    "kana": [
+      "ちゅうせい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "neutrality (incl. chemical, electrical, etc.)",
+          "indifference"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "sexlessness",
+          "androgyny",
+          "androgyne",
+          "neuter"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "neuter gender"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "中年"
+    ],
+    "kana": [
+      "ちゅうねん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "middle-age",
+          "middle age",
+          "midlife",
+          "one's middle years"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "長方形"
+    ],
+    "kana": [
+      "ちょうほうけい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "rectangle",
+          "oblong"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "直後"
+    ],
+    "kana": [
+      "ちょくご"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "immediately following"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "直線"
+    ],
+    "kana": [
+      "ちょくせん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "straight line"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "直前"
+    ],
+    "kana": [
+      "ちょくぜん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "just before",
+          "just prior to"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "right in front of",
+          "just in front of"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "直通"
+    ],
+    "kana": [
+      "ちょくつう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "direct line",
+          "direct communication",
+          "connecting directly",
+          "through service",
+          "nonstop service"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "直流"
+    ],
+    "kana": [
+      "ちょくりゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "direct current",
+          "DC"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "直角"
+    ],
+    "kana": [
+      "ちょっかく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "right angle",
+          "perpendicular"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "追加"
+    ],
+    "kana": [
+      "ついか"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "addition",
+          "supplement",
+          "appending",
+          "appendix"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "強気",
+      "強き"
+    ],
+    "kana": [
+      "つよき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "confident",
+          "assured",
+          "self-assured",
+          "firm",
+          "strong",
+          "cocksure"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "bullish"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "的確",
+      "適確"
+    ],
+    "kana": [
+      "てきかく",
+      "てっかく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "accurate",
+          "precise",
+          "exact",
+          "appropriate",
+          "apt",
+          "right"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "凸凹"
+    ],
+    "kana": [
+      "でこぼこ",
+      "とつおう",
+      "だくぼく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "unevenness",
+          "roughness",
+          "ruggedness",
+          "bumpiness"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no",
+          "adj-na",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "inequality",
+          "imbalance",
+          "unevenness",
+          "difference"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "手ごろ",
+      "手頃"
+    ],
+    "kana": [
+      "てごろ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "handy",
+          "convenient"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "suitable",
+          "reasonable",
+          "moderate"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "出鱈目"
+    ],
+    "kana": [
+      "でたらめ",
+      "デタラメ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "nonsense",
+          "irresponsible remark",
+          "codswallop",
+          "hogwash",
+          "rubbish"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "random",
+          "haphazard",
+          "unsystematic"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "伝記"
+    ],
+    "kana": [
+      "でんき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "biography",
+          "life story"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "点々",
+      "点点"
+    ],
+    "kana": [
+      "てんてん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "here and there",
+          "little by little",
+          "sporadically",
+          "scattered in drops"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to"
+        ]
+      },
+      {
+        "gloss": [
+          "dots",
+          "spots"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "転々",
+      "転転"
+    ],
+    "kana": [
+      "てんてん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "moving from place to place",
+          "being passed around repeatedly"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to",
+          "n",
+          "vs"
+        ]
+      },
+      {
+        "gloss": [
+          "rolling about"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to",
+          "n",
+          "vs"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "電波"
+    ],
+    "kana": [
+      "でんぱ",
+      "デムパ",
+      "デンパ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "radio wave",
+          "reception",
+          "signal"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "saying strange things"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "赤",
+      "紅",
+      "朱",
+      "緋"
+    ],
+    "kana": [
+      "あか"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "red",
+          "crimson",
+          "scarlet"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "red-containing colour (e.g. brown, pink, orange)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "Red (i.e. communist)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "red light (traffic)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "red ink (i.e. in finance or proof-reading)",
+          "(in) the red"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "complete",
+          "total",
+          "perfect",
+          "obvious"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "copper"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "red 5-point card"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "同格"
+    ],
+    "kana": [
+      "どうかく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "the same rank",
+          "equality"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no",
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "apposition"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "統計"
+    ],
+    "kana": [
+      "とうけい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "statistics"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "東西"
+    ],
+    "kana": [
+      "とうざい",
+      "ひがしにし"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "east and west"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "Orient and Occident",
+          "East and West"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "ladies and gentlemen!",
+          "your attention, please!",
+          "roll-up, roll-up"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "当日"
+    ],
+    "kana": [
+      "とうじつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "day in question",
+          "appointed day",
+          "that very day",
+          "the day (of issue, publication, etc.)"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "当番"
+    ],
+    "kana": [
+      "とうばん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "being on duty",
+          "person on duty",
+          "one's turn"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "透明"
+    ],
+    "kana": [
+      "とうめい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "transparent",
+          "clear"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "特殊"
+    ],
+    "kana": [
+      "とくしゅ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "special",
+          "particular",
+          "peculiar",
+          "unique"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "特定"
+    ],
+    "kana": [
+      "とくてい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "specific",
+          "particular",
+          "designated",
+          "special"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "specifying",
+          "designating",
+          "identifying",
+          "pinpointing"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "所々",
+      "所所",
+      "処々",
+      "処処"
+    ],
+    "kana": [
+      "ところどころ",
+      "しょしょ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "here and there",
+          "in places"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "疾っくに"
+    ],
+    "kana": [
+      "とっくに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "long ago",
+          "a long time ago",
+          "already"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "どっと",
+      "ドッと",
+      "ドっと"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "bursting out (laughter)",
+          "breaking out (applause)",
+          "roaring",
+          "whooping"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "in a rush",
+          "in a surge",
+          "flooding in",
+          "pouring in"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "suddenly",
+          "all of a sudden"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "兎も角"
+    ],
+    "kana": [
+      "ともかく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "anyhow",
+          "anyway",
+          "somehow or other",
+          "generally speaking",
+          "in any case",
+          "be that as it may"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "apart from ...",
+          "setting ... aside"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "長い",
+      "永い"
+    ],
+    "kana": [
+      "ながい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "long (distance, length)"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "long (time)",
+          "protracted",
+          "prolonged"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "仲良し",
+      "仲よし",
+      "仲好し"
+    ],
+    "kana": [
+      "なかよし"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "close friendship",
+          "close friend",
+          "good friend",
+          "bosom buddy",
+          "chum",
+          "pal"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "懐かしい"
+    ],
+    "kana": [
+      "なつかしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dear (old)",
+          "fondly-remembered",
+          "beloved",
+          "missed",
+          "nostalgic"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "斜め",
+      "斜",
+      "傾"
+    ],
+    "kana": [
+      "ななめ",
+      "なのめ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "slanting",
+          "tilted",
+          "sloping",
+          "diagonal",
+          "oblique"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "distorted (feeling)",
+          "slanted (e.g. view of the world)",
+          "bad (mood)",
+          "amiss",
+          "awry"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "何しろ"
+    ],
+    "kana": [
+      "なにしろ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "in any case",
+          "at any rate",
+          "anyhow",
+          "anyway",
+          "as you know",
+          "for you see",
+          "particularly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "because",
+          "since",
+          "for",
+          "after all"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "何分",
+      "何ぶん"
+    ],
+    "kana": [
+      "なにぶん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "some",
+          "any",
+          "(a) little",
+          "of some kind",
+          "of some sort"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "please"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "anyway",
+          "anyhow",
+          "at any rate",
+          "after all"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "生意気"
+    ],
+    "kana": [
+      "なまいき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "impertinent",
+          "saucy",
+          "cheeky",
+          "impudent",
+          "audacious",
+          "cocky",
+          "pert",
+          "brash"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "何となく",
+      "何と無く"
+    ],
+    "kana": [
+      "なんとなく",
+      "なにとなく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "somehow or other",
+          "for some reason or another",
+          "without knowing why"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "何とも"
+    ],
+    "kana": [
+      "なんとも"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "really",
+          "very",
+          "extremely",
+          "terribly",
+          "awfully"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "(not) anything",
+          "(not) at all",
+          "(not) a bit"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "憎い",
+      "悪い"
+    ],
+    "kana": [
+      "にくい",
+      "ニクい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hateful",
+          "detestable",
+          "abominable",
+          "vexing",
+          "provoking"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "amazing",
+          "fantastic",
+          "admirable",
+          "lovely",
+          "wonderful"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "憎らしい"
+    ],
+    "kana": [
+      "にくらしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "odious",
+          "hateful",
+          "detestable",
+          "horrible"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "(speaking ironically) darling"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "鈍い"
+    ],
+    "kana": [
+      "にぶい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dull (e.g. a knife)",
+          "blunt"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "thickheaded",
+          "obtuse",
+          "stupid"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "dull (sound, color, etc.)",
+          "dim (light)"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "slow",
+          "sluggish",
+          "inert",
+          "lethargic"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "insensitive",
+          "dull (e.g. reflexes)",
+          "unperceptive",
+          "unfeeling"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "俄",
+      "俄か"
+    ],
+    "kana": [
+      "にわか"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "sudden",
+          "abrupt",
+          "unexpected",
+          "improvised",
+          "hasty",
+          "offhand"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "impromptu skit"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "bandwagon fan",
+          "fair-weather fan"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "農村"
+    ],
+    "kana": [
+      "のうそん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "agricultural community",
+          "farm village"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "rural"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "農薬"
+    ],
+    "kana": [
+      "のうやく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "agricultural chemical (i.e. pesticide, herbicide, fungicide, etc.)",
+          "agrochemical",
+          "agrichemical"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "残らず"
+    ],
+    "kana": [
+      "のこらず"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "all",
+          "entirely",
+          "completely",
+          "without exception"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "上り",
+      "登り",
+      "昇り"
+    ],
+    "kana": [
+      "のぼり"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "ascent",
+          "climbing",
+          "ascending (path)",
+          "climb"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "up-train",
+          "train heading toward the starting point of its route"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "upbound (esp. toward Tokyo)"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "upstream",
+          "uphill"
+        ],
+        "partOfSpeech": [
+          "n",
+          "n-pref"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "鈍い"
+    ],
+    "kana": [
+      "のろい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thickheaded",
+          "obtuse",
+          "stupid"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "slow",
+          "sluggish",
+          "inert",
+          "lethargic"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "indulgent (esp. to the opposite sex)",
+          "doting"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "呑気",
+      "暢気",
+      "暖気",
+      "のん気"
+    ],
+    "kana": [
+      "のんき",
+      "ノンキ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "easy",
+          "easygoing",
+          "carefree",
+          "happy-go-lucky",
+          "optimistic",
+          "leisurely",
+          "careless",
+          "thoughtless"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "灰色"
+    ],
+    "kana": [
+      "はいいろ",
+      "かいしょく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "grey",
+          "gray",
+          "ashen"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "馬鹿らしい"
+    ],
+    "kana": [
+      "ばからしい",
+      "バカらしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "absurd",
+          "foolish",
+          "stupid",
+          "silly",
+          "nonsense",
+          "ludicrous",
+          "preposterous",
+          "laughable",
+          "ridiculous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "はきはき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "briskly",
+          "smartly",
+          "promptly",
+          "clearly",
+          "lucidly"
+        ],
+        "partOfSpeech": [
+          "adv-to",
+          "adv",
+          "vs"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "斜"
+    ],
+    "kana": [
+      "はす",
+      "しゃ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "diagonal"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "果たして",
+      "果して"
+    ],
+    "kana": [
+      "はたして"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "as was expected",
+          "just as one thought",
+          "sure enough"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "really",
+          "actually",
+          "ever"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "派手"
+    ],
+    "kana": [
+      "はで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "showy",
+          "loud",
+          "flashy",
+          "gaudy"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "話し中",
+      "話中"
+    ],
+    "kana": [
+      "はなしちゅう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "busy (phone)"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "in talks",
+          "discussion underway"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "甚だしい",
+      "甚しい"
+    ],
+    "kana": [
+      "はなはだしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "extreme",
+          "excessive",
+          "terrible",
+          "intense",
+          "severe",
+          "serious",
+          "tremendous",
+          "heavy (damage)"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "早口",
+      "速口"
+    ],
+    "kana": [
+      "はやくち",
+      "はやぐち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fast-talking",
+          "rapid talking"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "比較的"
+    ],
+    "kana": [
+      "ひかくてき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "comparatively",
+          "relatively"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "卑怯"
+    ],
+    "kana": [
+      "ひきょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "cowardly",
+          "craven"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "unfair",
+          "mean",
+          "sneaky",
+          "dirty",
+          "dastardly"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "筆記"
+    ],
+    "kana": [
+      "ひっき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "(taking) notes",
+          "copying"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一通り"
+    ],
+    "kana": [
+      "ひととおり"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "generally",
+          "in the main",
+          "briefly (look over, explain, etc.)",
+          "roughly",
+          "more or less"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "(more or less) everything",
+          "all parts",
+          "bit of everything",
+          "whole process"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "ordinary",
+          "usual",
+          "average",
+          "common"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "one method"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "一先ず",
+      "一先",
+      "一まず",
+      "ひと先ず",
+      "一と先ず"
+    ],
+    "kana": [
+      "ひとまず"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "for now",
+          "for the time being",
+          "for the present"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "though not quite satisfactorily",
+          "after a fashion"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "独りでに",
+      "一人でに"
+    ],
+    "kana": [
+      "ひとりでに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "by itself",
+          "automatically",
+          "naturally"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "ビニール",
+      "ビニル",
+      "バイナル",
+      "ヴァイナル"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "vinyl",
+          "plastic"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "vinyl record"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "皮肉"
+    ],
+    "kana": [
+      "ひにく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "irony",
+          "sarcasm",
+          "cynicism",
+          "satire"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "unexpected",
+          "different from what one expected",
+          "not as one had planned"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "(only) surface",
+          "something superficial"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "skin and bone",
+          "body"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "広々",
+      "広広"
+    ],
+    "kana": [
+      "ひろびろ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "extensive",
+          "spacious"
+        ],
+        "partOfSpeech": [
+          "adv-to",
+          "adv",
+          "vs",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "ピンク"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pink"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "erotic",
+          "blue",
+          "pornographic"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "瓶詰め",
+      "瓶詰",
+      "ビン詰め",
+      "壜詰め",
+      "壜詰",
+      "びん詰め",
+      "びん詰"
+    ],
+    "kana": [
+      "びんづめ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "bottling"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "bottled"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "不運"
+    ],
+    "kana": [
+      "ふうん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "misfortune",
+          "bad luck",
+          "ill luck",
+          "ill fortune"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "不規則"
+    ],
+    "kana": [
+      "ふきそく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "irregular",
+          "unsystematic",
+          "unsteady",
+          "disorderly"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "副詞"
+    ],
+    "kana": [
+      "ふくし"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "adverb"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "複数",
+      "復数"
+    ],
+    "kana": [
+      "ふくすう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "plural",
+          "multiple"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "plural (number)"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "不潔"
+    ],
+    "kana": [
+      "ふけつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "unclean",
+          "dirty",
+          "unsanitary",
+          "filthy"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "indecent",
+          "dirty (story, money, etc.)",
+          "obscene",
+          "immoral"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "付属",
+      "附属"
+    ],
+    "kana": [
+      "ふぞく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "being attached (to)",
+          "being affiliated (to)",
+          "belonging (to)",
+          "going with"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "attached school",
+          "affiliated school"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "物騒"
+    ],
+    "kana": [
+      "ぶっそう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dangerous",
+          "unsettled",
+          "troubled",
+          "disturbed",
+          "insecure"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "プラスチック",
+      "プラスティック",
+      "プラッチック",
+      "プラスティク",
+      "プラチック"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "plastic"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "分数"
+    ],
+    "kana": [
+      "ぶんすう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fraction"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "平気"
+    ],
+    "kana": [
+      "へいき"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "cool",
+          "calm",
+          "composed",
+          "unconcerned",
+          "nonchalant",
+          "unmoved",
+          "indifferent"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "all right",
+          "fine",
+          "OK",
+          "okay"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "並行",
+      "併行"
+    ],
+    "kana": [
+      "へいこう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "going side-by-side",
+          "going abreast"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "running concurrently",
+          "occurring at the same time",
+          "keeping pace with"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "平日"
+    ],
+    "kana": [
+      "へいじつ",
+      "ひらび"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "weekday",
+          "ordinary days (i.e. non-holiday)"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "kanji radical 73"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "平凡"
+    ],
+    "kana": [
+      "へいぼん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "ordinary",
+          "common",
+          "commonplace",
+          "mediocre",
+          "unremarkable",
+          "undistinguished",
+          "uneventful"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "別々",
+      "別別"
+    ],
+    "kana": [
+      "べつべつ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "separate",
+          "respective",
+          "different"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "膨大",
+      "厖大",
+      "尨大"
+    ],
+    "kana": [
+      "ぼうだい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "huge",
+          "vast",
+          "enormous",
+          "colossal",
+          "extensive",
+          "large"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "swelling",
+          "expansion"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "防犯"
+    ],
+    "kana": [
+      "ぼうはん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "prevention of crime"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "security (device, camera, etc.)"
+        ],
+        "partOfSpeech": [
+          "n-pref"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "朗らか"
+    ],
+    "kana": [
+      "ほがらか"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "cheerful",
+          "merry",
+          "sunny",
+          "melodious"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "bright (sky, day, etc.)",
+          "fine",
+          "clear"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "襤褸"
+    ],
+    "kana": [
+      "ぼろ",
+      "ボロ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "rag",
+          "old cloth"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "tattered clothes",
+          "ragged clothes",
+          "rags"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "fault (one is trying to hide)",
+          "defect",
+          "weakness"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "worn-out",
+          "run-down",
+          "shabby",
+          "ragged",
+          "tattered"
+        ],
+        "partOfSpeech": [
+          "adj-f",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "本来"
+    ],
+    "kana": [
+      "ほんらい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "originally",
+          "primarily"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "essentially",
+          "intrinsically",
+          "naturally",
+          "by nature",
+          "in (and of) itself"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "proper",
+          "rightful",
+          "legal",
+          "normal"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "まあまあ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "so-so",
+          "passable",
+          "not (so) bad",
+          "reasonable"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "now, now",
+          "there, there",
+          "there now"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "my, my",
+          "oh my!",
+          "dear me!"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "毎度"
+    ],
+    "kana": [
+      "まいど"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "each time",
+          "always",
+          "often"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "thank you for your continued patronage"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "マイナス"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "minus",
+          "subtraction",
+          "taking away"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt"
+        ]
+      },
+      {
+        "gloss": [
+          "negative (number)"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "deficit",
+          "loss"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "disadvantage",
+          "drawback",
+          "handicap"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "negative charge",
+          "cathode",
+          "negative terminal",
+          "negative pole"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "minus sign",
+          "negative sign"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "negative (image, effect, thinking, etc.)",
+          "bad"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "negative (test result)"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "まごまご"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "confused",
+          "flustered",
+          "at a loss"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "vs"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "真っ暗",
+      "真暗",
+      "まっ暗"
+    ],
+    "kana": [
+      "まっくら"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "total darkness",
+          "pitch dark"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "bleak future",
+          "poor prospects"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "真っ黒",
+      "まっ黒",
+      "真黒"
+    ],
+    "kana": [
+      "まっくろ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pitch black"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "真っ青",
+      "まっ青",
+      "真青"
+    ],
+    "kana": [
+      "まっさお"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "deep blue",
+          "bright blue"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "ghastly pale",
+          "pallid",
+          "white as a sheet"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "真っ白",
+      "まっ白",
+      "真白"
+    ],
+    "kana": [
+      "まっしろ",
+      "ましろ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "pure white"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "blank (e.g. mind, paper)"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "眩しい"
+    ],
+    "kana": [
+      "まぶしい",
+      "まぼしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "dazzling",
+          "radiant"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "間もなく",
+      "間も無く"
+    ],
+    "kana": [
+      "まもなく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "soon",
+          "shortly",
+          "before long",
+          "in a short time",
+          "in a little while"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "having no time to ...",
+          "with no time to ..."
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "稀",
+      "希"
+    ],
+    "kana": [
+      "まれ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "rare",
+          "seldom"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "満員"
+    ],
+    "kana": [
+      "まんいん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "full house",
+          "no vacancy",
+          "sold out",
+          "standing room only",
+          "full (of people)",
+          "crowded"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "満点"
+    ],
+    "kana": [
+      "まんてん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "perfect score",
+          "full marks"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "extremely",
+          "very",
+          "quite"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "見かけ",
+      "見掛け"
+    ],
+    "kana": [
+      "みかけ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "outward appearance"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "apparent"
+        ],
+        "partOfSpeech": [
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "惨め"
+    ],
+    "kana": [
+      "みじめ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "miserable",
+          "wretched",
+          "unhappy",
+          "sad",
+          "pitiable"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "見っとも無い",
+      "見っともない"
+    ],
+    "kana": [
+      "みっともない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "shameful",
+          "disgraceful",
+          "unsightly",
+          "indecent",
+          "unseemly",
+          "unbecoming",
+          "improper"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "醜い",
+      "見憎い"
+    ],
+    "kana": [
+      "みにくい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "ugly",
+          "unattractive",
+          "bad-looking"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "unsightly",
+          "unseemly",
+          "disgraceful",
+          "shameful",
+          "dishonorable"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "見本"
+    ],
+    "kana": [
+      "みほん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "sample",
+          "specimen",
+          "pattern"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "model",
+          "example"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "未満"
+    ],
+    "kana": [
+      "みまん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "less than",
+          "under",
+          "below"
+        ],
+        "partOfSpeech": [
+          "n-suf",
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "民間"
+    ],
+    "kana": [
+      "みんかん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "private",
+          "non-governmental",
+          "non-official",
+          "civilian",
+          "civil"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "folk",
+          "popular"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "無限"
+    ],
+    "kana": [
+      "むげん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "infinity",
+          "infinitude",
+          "eternity"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "infinite",
+          "limitless"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "無地"
+    ],
+    "kana": [
+      "むじ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "plain",
+          "unfigured",
+          "patternless",
+          "solid (color)"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "蒸し暑い",
+      "むし暑い",
+      "蒸暑い"
+    ],
+    "kana": [
+      "むしあつい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "humid",
+          "sultry"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "矛盾",
+      "矛楯"
+    ],
+    "kana": [
+      "むじゅん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "contradiction",
+          "inconsistency"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "無数"
+    ],
+    "kana": [
+      "むすう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "innumerable",
+          "countless",
+          "numberless"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "紫"
+    ],
+    "kana": [
+      "むらさき",
+      "ムラサキ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "purple",
+          "violet"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "purple gromwell (Lithospermum erythrorhizon)",
+          "red gromwell",
+          "red-root gromwell"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "soy sauce"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "銘々",
+      "銘銘"
+    ],
+    "kana": [
+      "めいめい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "each",
+          "individual"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "目茶苦茶",
+      "滅茶苦茶"
+    ],
+    "kana": [
+      "めちゃくちゃ",
+      "メチャクチャ",
+      "めっちゃくちゃ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "absurd",
+          "unreasonable",
+          "nonsensical",
+          "preposterous",
+          "incoherent"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "extreme",
+          "senseless",
+          "reckless",
+          "wanton"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "disorderly",
+          "chaotic",
+          "confused",
+          "messy"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "incredibly",
+          "really",
+          "so",
+          "super"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "めっきり"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "remarkably",
+          "noticeably",
+          "considerably",
+          "appreciably"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "目出度い",
+      "愛でたい",
+      "芽出度い"
+    ],
+    "kana": [
+      "めでたい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "happy",
+          "auspicious",
+          "propitious",
+          "joyous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "naive"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "免税"
+    ],
+    "kana": [
+      "めんぜい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "tax exemption",
+          "duty exemption"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vt",
+          "vi",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "面倒くさい",
+      "面倒臭い"
+    ],
+    "kana": [
+      "めんどくさい",
+      "めんどうくさい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "bothersome",
+          "tiresome",
+          "bother to do"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "申し訳ない",
+      "申し訳無い",
+      "申しわけない"
+    ],
+    "kana": [
+      "もうしわけない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "I'm sorry",
+          "(it's) inexcusable",
+          "I feel regretful",
+          "I feel guilty"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "thank you very much (for help, etc.)"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "若しかしたら"
+    ],
+    "kana": [
+      "もしかしたら"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "perhaps",
+          "maybe",
+          "perchance",
+          "by some chance",
+          "by any chance"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "若しかすると"
+    ],
+    "kana": [
+      "もしかすると"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "perhaps",
+          "possibly",
+          "maybe",
+          "by some chance"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [],
+    "kana": [
+      "モダン",
+      "モダーン"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "modern"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "lug arm tips (on glasses)",
+          "temple tips"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "勿体ない",
+      "勿体無い",
+      "物体ない",
+      "物体無い"
+    ],
+    "kana": [
+      "もったいない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "wasteful",
+          "a waste"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "too good",
+          "more than one deserves",
+          "unworthy of"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "impious",
+          "profane",
+          "sacrilegious"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "元々",
+      "元元",
+      "本本",
+      "本々"
+    ],
+    "kana": [
+      "もともと"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "originally",
+          "from the start",
+          "from the beginning",
+          "from the outset",
+          "by nature"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "none the worse (for)",
+          "(coming out) even",
+          "in the same position (as before)"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "物凄い",
+      "もの凄い"
+    ],
+    "kana": [
+      "ものすごい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "terrific",
+          "staggering",
+          "tremendous",
+          "incredible",
+          "extreme"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "frightful",
+          "ghastly",
+          "horrific",
+          "terrible",
+          "awful",
+          "gruesome",
+          "eerie"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "喧しい",
+      "八釜しい"
+    ],
+    "kana": [
+      "やかましい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "noisy",
+          "loud",
+          "clamorous",
+          "boisterous"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "much talked of",
+          "much-discussed",
+          "vexed"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "strict",
+          "severe",
+          "stern"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "particular",
+          "fussy",
+          "fastidious",
+          "fault-finding",
+          "carping"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "夜間"
+    ],
+    "kana": [
+      "やかん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "night",
+          "nighttime"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "矢鱈"
+    ],
+    "kana": [
+      "やたら"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "indiscriminately",
+          "blindly",
+          "at random",
+          "recklessly",
+          "thoughtlessly",
+          "excessively",
+          "profusely"
+        ],
+        "partOfSpeech": [
+          "adv",
+          "adv-to"
+        ]
+      },
+      {
+        "gloss": [
+          "indiscriminate",
+          "random",
+          "excessive"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "やむを得ない",
+      "止むを得ない",
+      "已むを得ない"
+    ],
+    "kana": [
+      "やむをえない"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "cannot be helped",
+          "unavoidable"
+        ],
+        "partOfSpeech": [
+          "exp",
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "柔らかい",
+      "軟らかい",
+      "柔かい"
+    ],
+    "kana": [
+      "やわらかい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "soft",
+          "tender",
+          "supple",
+          "flexible",
+          "limber",
+          "limp"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "gentle",
+          "mild",
+          "soft",
+          "mellow"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "light (topic, book, etc.)",
+          "informal"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "flexible (thinking, mind, etc.)",
+          "malleable",
+          "adaptable"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "悠々",
+      "悠悠"
+    ],
+    "kana": [
+      "ゆうゆう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "quiet",
+          "calm",
+          "leisurely",
+          "composed"
+        ],
+        "partOfSpeech": [
+          "adj-t",
+          "adv-to"
+        ]
+      },
+      {
+        "gloss": [
+          "easily",
+          "comfortably",
+          "without difficulty"
+        ],
+        "partOfSpeech": [
+          "adv-to",
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "distant",
+          "far-off",
+          "boundless",
+          "endless",
+          "eternal"
+        ],
+        "partOfSpeech": [
+          "adj-t",
+          "adv-to"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "有料"
+    ],
+    "kana": [
+      "ゆうりょう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "fee-charging",
+          "paid",
+          "not free"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "toll road"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "緩い"
+    ],
+    "kana": [
+      "ゆるい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "loose"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "lenient",
+          "lax"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "gentle (curve, slope, etc.)"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "slow",
+          "weak"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "soft",
+          "not firm"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      },
+      {
+        "gloss": [
+          "difficult",
+          "hard"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "幼稚"
+    ],
+    "kana": [
+      "ようち"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "infancy"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "childish",
+          "infantile",
+          "immature",
+          "primitive"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "羊毛"
+    ],
+    "kana": [
+      "ようもう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "wool"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "漸く"
+    ],
+    "kana": [
+      "ようやく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "finally",
+          "at last"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "barely",
+          "narrowly",
+          "hardly",
+          "only just"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      },
+      {
+        "gloss": [
+          "gradually",
+          "little by little",
+          "by degrees"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "欲張り",
+      "欲ばり"
+    ],
+    "kana": [
+      "よくばり"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "greed",
+          "avarice",
+          "covetousness",
+          "greedy person"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "余計"
+    ],
+    "kana": [
+      "よけい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "extra",
+          "more",
+          "too much",
+          "too many",
+          "excessive",
+          "superfluous",
+          "spare",
+          "surplus"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "unnecessary",
+          "needless",
+          "uncalled-for",
+          "unwanted",
+          "uninvited"
+        ],
+        "partOfSpeech": [
+          "adj-na"
+        ]
+      },
+      {
+        "gloss": [
+          "all the more",
+          "even more"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "余所",
+      "他所",
+      "外"
+    ],
+    "kana": [
+      "よそ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "another place",
+          "somewhere else",
+          "strange parts"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "outside (one's family or group)",
+          "someone else",
+          "other people"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "not caring for",
+          "being indifferent to",
+          "taking little notice of",
+          "ignoring",
+          "neglecting"
+        ],
+        "partOfSpeech": [
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "予備",
+      "預備"
+    ],
+    "kana": [
+      "よび"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "reserve",
+          "spare"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": [
+          "preparation",
+          "preliminaries"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "乱暴",
+      "亂暴"
+    ],
+    "kana": [
+      "らんぼう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "violence",
+          "assault",
+          "rowdiness",
+          "wildness",
+          "running riot"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-na",
+          "vs",
+          "vi"
+        ]
+      },
+      {
+        "gloss": [
+          "rough (handling, language, etc.)",
+          "reckless",
+          "careless",
+          "coarse",
+          "rude",
+          "unreasonable (e.g. demand)",
+          "wild (e.g. argument)"
+        ],
+        "partOfSpeech": [
+          "adj-na",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "rape",
+          "sexual assault"
+        ],
+        "partOfSpeech": [
+          "n",
+          "vs",
+          "vi"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "両側"
+    ],
+    "kana": [
+      "りょうがわ",
+      "りょうそく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "both sides"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "領事"
+    ],
+    "kana": [
+      "りょうじ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "consul"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "臨時"
+    ],
+    "kana": [
+      "りんじ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "temporary",
+          "provisional",
+          "interim"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      },
+      {
+        "gloss": [
+          "special",
+          "extraordinary",
+          "extra"
+        ],
+        "partOfSpeech": [
+          "adj-no",
+          "n"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "例外"
+    ],
+    "kana": [
+      "れいがい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "exception"
+        ],
+        "partOfSpeech": [
+          "n",
+          "adj-no"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "若々しい",
+      "若若しい"
+    ],
+    "kana": [
+      "わかわかしい"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "youthful",
+          "young",
+          "young-looking"
+        ],
+        "partOfSpeech": [
+          "adj-i"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "割合に"
+    ],
+    "kana": [
+      "わりあいに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "comparatively"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  {
+    "kanji": [
+      "割と",
+      "割りと"
+    ],
+    "kana": [
+      "わりと"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "comparatively",
+          "relatively",
+          "fairly",
+          "rather",
+          "pretty",
+          "unexpectedly"
+        ],
+        "partOfSpeech": [
+          "adv"
+        ]
+      }
+    ]
+  }
+]
