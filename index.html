@@ -1,29 +1,19 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
+        <meta charset="utf-8"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0"/>
+
+        <style>
+            @font-face { font-family: noto; src: url("./NotoSansJP-Regular.ttf"); } 
+            body {
+                background-color: #f4f1de;
+            }
+        </style>
     </head>
-    
-    <style>
-        #xwidget {
-            position: absolute;
-            top:0;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            margin-top: 50px;
-            margin-left: auto;
-            margin-right: auto;
-            outline: none;
-        }
-        
-        body {
-            background-color: rgb(250, 250, 250);
-        }
-    </style>
-    
-    <body">
-        <canvas id="xwidget" width="800" height="600"></canvas>
-        <script src="bundle.js" type="text/javascript"></script>
+    <body>
+        <script src="wanakana.min.js"></script>
+        <script type="module" src="app.js"></script>
     </body>
 </html>

@@ -1,0 +1,425 @@
+[
+  {
+    "id": "2394370",
+    "kanji": [],
+    "kana": [
+      "あっ",
+      "アッ",
+      "アっ",
+      "あ",
+      "ア"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "ah",
+          "oh"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "hey!"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1001090",
+    "kanji": [],
+    "kana": [
+      "うん",
+      "うむ",
+      "ううむ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "yes",
+          "yeah",
+          "uh huh"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "hum",
+          "hmmm",
+          "well",
+          "erm",
+          "huh?"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      },
+      {
+        "gloss": [
+          "oof"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1182620",
+    "kanji": [
+      "億"
+    ],
+    "kana": [
+      "おく"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "hundred million",
+          "100,000,000",
+          "10^8"
+        ],
+        "partOfSpeech": [
+          "num"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1247260",
+    "kanji": [
+      "君"
+    ],
+    "kana": [
+      "くん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "Mr",
+          "master",
+          "boy"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "Ms",
+          "miss"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "sir",
+          "madam"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1004200",
+    "kanji": [],
+    "kana": [
+      "けど",
+      "けども"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "but",
+          "however",
+          "although"
+        ],
+        "partOfSpeech": [
+          "conj",
+          "prt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2817960",
+    "kanji": [
+      "応え"
+    ],
+    "kana": [
+      "ごたえ"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "response",
+          "feeling"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": [
+          "worth ...ing",
+          "worthwhile ...ing",
+          "satisfying to ..."
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2524270",
+    "kanji": [],
+    "kana": [
+      "こと"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "particle indicating a command"
+        ],
+        "partOfSpeech": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": [
+          "particle indicating mild enthusiasm"
+        ],
+        "partOfSpeech": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": [
+          "particle indicating a gentle interrogative"
+        ],
+        "partOfSpeech": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": [
+          "particle used to soften a judgment or conclusion"
+        ],
+        "partOfSpeech": [
+          "prt"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1004790",
+    "kanji": [
+      "此れから",
+      "是から",
+      "此から"
+    ],
+    "kana": [
+      "これから"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "from now on",
+          "after this",
+          "in the future",
+          "in future"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      },
+      {
+        "gloss": [
+          "from here",
+          "from this point"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1006280",
+    "kanji": [],
+    "kana": [
+      "すると"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "thereupon",
+          "hereupon"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1007000",
+    "kanji": [
+      "其れで"
+    ],
+    "kana": [
+      "それで"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "so",
+          "therefore",
+          "and",
+          "(and) then"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1007040",
+    "kanji": [
+      "其れに"
+    ],
+    "kana": [
+      "それに"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "besides",
+          "in addition",
+          "also",
+          "moreover"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1007310",
+    "kanji": [],
+    "kana": [
+      "だから"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "so",
+          "therefore",
+          "accordingly",
+          "consequently",
+          "on those grounds",
+          "that is why",
+          "for that reason"
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      },
+      {
+        "gloss": [
+          "like I said",
+          "I told you already"
+        ],
+        "partOfSpeech": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1007660",
+    "kanji": [],
+    "kana": [
+      "ちゃん"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "suffix for familiar person"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1524990",
+    "kanji": [
+      "又は"
+    ],
+    "kana": [
+      "または"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "or",
+          "either ... or ..."
+        ],
+        "partOfSpeech": [
+          "conj"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2085750",
+    "kanji": [
+      "港"
+    ],
+    "kana": [
+      "こう"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "harbour"
+        ],
+        "partOfSpeech": [
+          "suf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2607730",
+    "kanji": [],
+    "kana": [
+      "もし"
+    ],
+    "sense": [
+      {
+        "gloss": [
+          "excuse me! (when calling out to someone)"
+        ],
+        "partOfSpeech": [
+          "int"
+        ]
+      }
+    ]
+  }
+]
